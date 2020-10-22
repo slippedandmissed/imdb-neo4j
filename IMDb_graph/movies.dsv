@@ -1,0 +1,1325 @@
+movie_id:ID|title:string|year:int|type:string|minutes:int|rating:float|votes:int|genres:string[]|:LABEL
+tt1454029|The Help|2011|movie|146|8.0|420132|Drama|Movie
+tt1156398|Zombieland|2009|movie|88|7.6|511495|Adventure;Comedy;Fantasy|Movie
+tt2103281|Dawn of the Planet of the Apes|2014|movie|130|7.6|407038|Action;Adventure;Drama|Movie
+tt0783233|Atonement|2007|movie|123|7.8|244401|Drama;Mystery;Romance|Movie
+tt0264616|Frailty|2001|movie|100|7.2|75554|Crime;Drama;Thriller|Movie
+tt0363547|Dawn of the Dead|2004|movie|101|7.3|230820|Action;Horror|Movie
+tt6139732|Aladdin|2019|movie|128|7.0|216302|Adventure;Family;Fantasy|Movie
+tt0443680|The Assassination of Jesse James by the Coward Robert Ford|2007|movie|160|7.5|166196|Biography;Crime;Drama|Movie
+tt0408056|Omagh|2004|tvMovie|106|7.3|1557|Drama|Movie
+tt5594080|Walk Invisible: The Brontë Sisters|2016|tvMovie|120|7.4|2207|Biography;Drama;History|Movie
+tt1164999|Biutiful|2010|movie|148|7.5|84871|Drama;Romance|Movie
+tt2066051|Rocketman|2019|movie|121|7.3|125024|Biography;Drama;Music|Movie
+tt1091191|Lone Survivor|2013|movie|121|7.5|261845|Action;Biography;Drama|Movie
+tt0795368|Death at a Funeral|2007|movie|90|7.4|108140|Comedy|Movie
+tt0416449|300|2006|movie|117|7.6|723131|Action;Drama|Movie
+tt2582496|Me and Earl and the Dying Girl|2015|movie|105|7.7|120806|Comedy;Drama|Movie
+tt1259521|The Cabin in the Woods|2011|movie|95|7.0|367437|Horror|Movie
+tt1173494|God on Trial|2008|tvMovie|86|7.7|3224|Drama;War|Movie
+tt1343097|The Girl Who Kicked the Hornet's Nest|2009|movie|147|7.3|66924|Crime;Drama;Thriller|Movie
+tt1034303|Defiance|2008|movie|137|7.2|136159|Action;Drama;History|Movie
+tt1311076|My Dinner with Hervé|2018|tvMovie|110|7.0|5348|Biography;Drama|Movie
+tt0419967|Miracle Run|2004|tvMovie|120|7.4|1484|Biography;Drama|Movie
+tt7653254|Marriage Story|2019|movie|137|8.0|228649|Comedy;Drama;Romance|Movie
+tt1178663|Whatever Works|2009|movie|93|7.1|70112|Comedy;Romance|Movie
+tt1033575|The Descendants|2011|movie|115|7.3|230300|Comedy;Drama|Movie
+tt0257044|Road to Perdition|2002|movie|117|7.7|242660|Crime;Drama;Thriller|Movie
+tt9046556|ReMastered: Tricky Dick and the Man in Black|2018|tvMovie|59|7.2|1064|Biography;Documentary|Movie
+tt0217505|Gangs of New York|2002|movie|167|7.5|397547|Crime;Drama|Movie
+tt0133240|Treasure Planet|2002|movie|95|7.2|99708|Adventure;Animation;Family|Movie
+tt0976051|The Reader|2008|movie|124|7.6|227504|Drama;Romance|Movie
+tt2880448|Chaos on the Bridge|2014|tvMovie|59|7.0|1087|Biography;Documentary;History|Movie
+tt0432283|Fantastic Mr. Fox|2009|movie|87|7.9|193443|Adventure;Animation;Comedy|Movie
+tt1706593|Chronicle|2012|movie|89|7.0|237431|Drama;Sci-Fi;Thriller|Movie
+tt0414993|The Fountain|2006|movie|97|7.2|225423|Drama;Mystery;Romance|Movie
+tt2305051|Wild|2014|movie|115|7.1|118041|Biography;Drama|Movie
+tt0829482|Superbad|2007|movie|113|7.6|512058|Comedy|Movie
+tt1032755|RocknRolla|2008|movie|114|7.3|232178|Action;Crime;Thriller|Movie
+tt0427312|Grizzly Man|2005|movie|103|7.8|52031|Biography;Documentary|Movie
+tt0276919|Dogville|2003|movie|178|8.0|135185|Crime;Drama|Movie
+tt0243017|Waking Life|2001|movie|99|7.8|59969|Animation;Drama;Fantasy|Movie
+tt0215750|Enemy at the Gates|2001|movie|131|7.6|238605|Drama;History;War|Movie
+tt0446724|Kim Possible: So the Drama|2005|tvMovie|71|7.1|3834|Action;Adventure;Animation|Movie
+tt0482571|The Prestige|2006|movie|130|8.5|1158557|Drama;Mystery;Sci-Fi|Movie
+tt3626180|The Christmas Secret|2014|tvMovie|120|7.3|2487|Drama;Family;Romance|Movie
+tt0472033|9|2009|movie|79|7.1|131313|Action;Adventure;Animation|Movie
+tt0405422|The 40-Year-Old Virgin|2005|movie|116|7.1|388460|Comedy;Romance|Movie
+tt0240628|James Dean|2001|tvMovie|120|7.3|5015|Biography;Drama|Movie
+tt0476735|My Father and My Son|2005|movie|112|8.3|76228|Drama;Family|Movie
+tt3682448|Bridge of Spies|2015|movie|142|7.6|281662|Drama;History;Thriller|Movie
+tt0325805|Matchstick Men|2003|movie|116|7.3|122265|Comedy;Crime;Drama|Movie
+tt1596343|Fast Five|2011|movie|130|7.3|347594|Action;Adventure;Crime|Movie
+tt0290334|X2: X-Men United|2003|movie|134|7.4|504588|Action;Sci-Fi;Thriller|Movie
+tt8425058|Brexit|2019|tvMovie|92|7.0|13295|Biography;Drama;History|Movie
+tt6294822|The Post|2017|movie|116|7.2|130573|Drama;Thriller|Movie
+tt1754656|The Little Prince|2015|movie|108|7.7|55213|Adventure;Animation;Drama|Movie
+tt0469494|There Will Be Blood|2007|movie|158|8.2|503983|Drama|Movie
+tt0389557|Black Book|2006|movie|145|7.7|71639|Drama;Thriller;War|Movie
+tt3356268|The Five(ish) Doctors Reboot|2013|tvMovie|30|8.6|1647|Comedy;Drama|Movie
+tt1727824|Bohemian Rhapsody|2018|movie|134|8.0|434598|Biography;Drama;Music|Movie
+tt0310793|Bowling for Columbine|2002|movie|120|7.9|138705|Crime;Documentary;Drama|Movie
+tt1877832|X-Men: Days of Future Past|2014|movie|132|7.9|651024|Action;Adventure;Sci-Fi|Movie
+tt0235376|Fail Safe|2000|tvMovie|86|7.3|5442|Drama;Thriller|Movie
+tt0465551|Notes on a Scandal|2006|movie|92|7.4|73777|Crime;Drama;Romance|Movie
+tt0418763|Jarhead|2005|movie|125|7.0|173344|Action;Biography;Drama|Movie
+tt0343818|I, Robot|2004|movie|115|7.1|491493|Action;Drama;Sci-Fi|Movie
+tt1153112|Mogadischu|2008|tvMovie|90|7.2|1176|Crime;Drama|Movie
+tt0405094|The Lives of Others|2006|movie|137|8.4|350267|Drama;Mystery;Thriller|Movie
+tt0386792|Something the Lord Made|2004|tvMovie|110|8.2|11987|Biography;Drama|Movie
+tt0372824|The Chorus|2004|movie|97|7.9|56310|Drama;Music|Movie
+tt5776858|Phantom Thread|2017|movie|130|7.5|106655|Drama;Romance|Movie
+tt7271684|The Story of Diana|2017|tvMovie|240|8.1|1547|Biography;Documentary|Movie
+tt0420223|Stranger Than Fiction|2006|movie|113|7.5|215476|Comedy;Drama;Fantasy|Movie
+tt8367814|The Gentlemen|2019|movie|113|7.9|181984|Action;Comedy;Crime|Movie
+tt0950740|A Grandpa for Christmas|2007|tvMovie|90|7.0|1078|Comedy;Drama|Movie
+tt0245844|The Count of Monte Cristo|2002|movie|131|7.8|127015|Action;Adventure;Drama|Movie
+tt3322420|Queen|2013|movie|146|8.2|59618|Adventure;Comedy;Drama|Movie
+tt0942385|Tropic Thunder|2008|movie|107|7.0|372323|Action;Comedy;War|Movie
+tt0167260|The Lord of the Rings: The Return of the King|2003|movie|201|8.9|1606641|Action;Adventure;Drama|Movie
+tt0373074|Kung Fu Hustle|2004|movie|99|7.7|124949|Action;Comedy;Fantasy|Movie
+tt1485796|The Greatest Showman|2017|movie|105|7.6|227479|Biography;Drama;Musical|Movie
+tt2562232|Birdman or (The Unexpected Virtue of Ignorance)|2014|movie|119|7.7|567398|Comedy;Drama|Movie
+tt1259573|Red Riding: The Year of Our Lord 1983|2009|tvMovie|100|7.2|7019|Crime;Drama;Mystery|Movie
+tt0319061|Big Fish|2003|movie|125|8.0|408908|Adventure;Drama;Fantasy|Movie
+tt1602620|Amour|2012|movie|127|7.9|91325|Drama;Romance|Movie
+tt1727388|The Way, Way Back|2013|movie|103|7.4|138540|Comedy;Drama|Movie
+tt1433852|Louis Theroux: A Place for Paedophiles|2009|tvMovie|45|7.4|1912|Documentary|Movie
+tt0278504|Insomnia|2002|movie|118|7.2|270064|Drama;Mystery;Thriller|Movie
+tt1139328|The Ghost Writer|2010|movie|128|7.2|154498|Drama;Mystery;Thriller|Movie
+tt1049413|Up|2009|movie|96|8.2|913012|Adventure;Animation;Comedy|Movie
+tt0395644|Louis and the Nazis|2003|tvMovie|70|7.7|1820|Documentary|Movie
+tt1116184|Jackass 3D|2010|movie|95|7.0|56022|Action;Comedy;Documentary|Movie
+tt2910904|The Dressmaker|2015|movie|119|7.1|51901|Comedy;Drama|Movie
+tt0195685|Erin Brockovich|2000|movie|131|7.3|170996|Biography;Drama|Movie
+tt6429934|Maigret in Montmartre|2017|tvMovie|90|7.0|2849|Crime;Drama;Mystery|Movie
+tt0183649|Phone Booth|2002|movie|81|7.0|247986|Crime;Thriller|Movie
+tt3846674|To All the Boys I've Loved Before|2018|movie|99|7.1|82244|Comedy;Drama;Romance|Movie
+tt1568921|The Secret World of Arrietty|2010|movie|94|7.6|77844|Adventure;Animation;Family|Movie
+tt0243133|The Man Who Wasn't There|2001|movie|116|7.5|102354|Crime;Drama|Movie
+tt0487907|Gideon's Daughter|2005|tvMovie|105|7.0|1674|Drama|Movie
+tt5362988|Wind River|2017|movie|107|7.7|195982|Crime;Drama;Mystery|Movie
+tt0180073|Quills|2000|movie|124|7.3|50974|Biography;Drama|Movie
+tt1189340|The Lincoln Lawyer|2011|movie|118|7.3|210070|Crime;Drama;Thriller|Movie
+tt0455944|The Equalizer|2014|movie|132|7.2|326142|Action;Crime;Thriller|Movie
+tt7188868|Diana: In Her Own Words|2017|tvMovie|112|7.9|1555|Biography;Documentary|Movie
+tt3312830|Youth|2015|movie|124|7.3|70199|Comedy;Drama;Music|Movie
+tt4505830|Jesse Stone: Lost in Paradise|2015|tvMovie|86|7.2|2221|Crime;Drama|Movie
+tt1723811|Shame|2011|movie|101|7.2|180233|Drama|Movie
+tt8168186|I Am Jonas|2018|tvMovie|82|7.0|3628|Drama;Mystery;Romance|Movie
+tt2937752|Common|2014|tvMovie|90|7.3|1245|Crime;Drama|Movie
+tt0299658|Chicago|2002|movie|113|7.1|212645|Comedy;Crime;Musical|Movie
+tt0264464|Catch Me If You Can|2002|movie|141|8.1|802422|Biography;Crime;Drama|Movie
+tt1570728|Crazy, Stupid, Love|2011|movie|118|7.4|463379|Comedy;Drama;Romance|Movie
+tt1800241|American Hustle|2013|movie|138|7.2|441167|Crime;Drama|Movie
+tt1028528|Death Proof|2007|movie|127|7.0|264035|Action;Adventure;Thriller|Movie
+tt2334873|Blue Jasmine|2013|movie|98|7.3|189210|Drama|Movie
+tt4849438|Baahubali 2: The Conclusion|2017|movie|167|8.2|72764|Action;Drama|Movie
+tt2452386|The Fundamentals of Caring|2016|movie|97|7.3|55953|Comedy;Drama|Movie
+tt0468569|The Dark Knight|2008|movie|152|9.0|2246851|Action;Crime;Drama|Movie
+tt0126029|Shrek|2001|movie|90|7.8|600991|Adventure;Animation;Comedy|Movie
+tt1263704|Stanley Kubrick's Boxes|2008|tvMovie|48|7.6|1129|Biography;Documentary;History|Movie
+tt0390022|Friday Night Lights|2004|movie|118|7.2|58111|Action;Drama;Sport|Movie
+tt3748528|Rogue One: A Star Wars Story|2016|movie|133|7.8|539485|Action;Adventure;Sci-Fi|Movie
+tt0412366|An American Girl Holiday|2004|tvMovie|86|7.0|1773|Drama;Family|Movie
+tt0320661|Kingdom of Heaven|2005|movie|144|7.2|262940|Action;Adventure;Drama|Movie
+tt0796366|Star Trek|2009|movie|127|7.9|572174|Action;Adventure;Sci-Fi|Movie
+tt1282140|Easy A|2010|movie|92|7.0|350826|Comedy;Drama;Romance|Movie
+tt1126590|Big Eyes|2014|movie|106|7.0|83954|Biography;Crime;Drama|Movie
+tt2209418|Before Midnight|2013|movie|109|7.9|136942|Drama;Romance|Movie
+tt2397535|Predestination|2014|movie|97|7.5|246355|Action;Drama;Sci-Fi|Movie
+tt3065204|The Conjuring 2|2016|movie|134|7.3|218534|Horror;Mystery;Thriller|Movie
+tt1077258|Planet Terror|2007|movie|105|7.1|197678|Action;Adventure;Comedy|Movie
+tt2381111|Brooklyn|2015|movie|117|7.5|128097|Drama;Romance|Movie
+tt1457767|The Conjuring|2013|movie|112|7.5|431117|Horror;Mystery;Thriller|Movie
+tt2545118|Blackfish|2013|movie|83|8.1|60784|Documentary|Movie
+tt9792884|Psych 2: Lassie Come Home|2020|tvMovie|89|7.6|2382|Comedy;Crime;Mystery|Movie
+tt1365050|Beasts of No Nation|2015|movie|137|7.7|71803|Drama;War|Movie
+tt0372183|The Bourne Supremacy|2004|movie|108|7.7|427668|Action;Mystery;Thriller|Movie
+tt3470600|Sing|2016|movie|108|7.1|130005|Animation;Comedy;Family|Movie
+tt0498380|Letters from Iwo Jima|2006|movie|141|7.9|152267|Action;Adventure;Drama|Movie
+tt2042568|Inside Llewyn Davis|2013|movie|104|7.5|136145|Comedy;Drama;Music|Movie
+tt2125435|Beasts of the Southern Wild|2012|movie|93|7.3|79860|Adventure;Drama;Fantasy|Movie
+tt6146460|Hamilton's America|2016|tvMovie|90|8.3|1038|Documentary|Movie
+tt0338564|Infernal Affairs|2002|movie|101|8.0|116497|Action;Crime;Drama|Movie
+tt0167261|The Lord of the Rings: The Two Towers|2002|movie|179|8.7|1451960|Action;Adventure;Drama|Movie
+tt3521126|The Disaster Artist|2017|movie|104|7.4|133844|Biography;Comedy;Drama|Movie
+tt3224458|A Beautiful Day in the Neighborhood|2019|movie|109|7.3|50890|Biography;Drama|Movie
+tt3553976|Captain Fantastic|2016|movie|118|7.9|182604|Comedy;Drama|Movie
+tt0443272|Lincoln|2012|movie|150|7.3|240673|Biography;Drama;History|Movie
+tt0266543|Finding Nemo|2003|movie|100|8.1|929354|Adventure;Animation;Comedy|Movie
+tt0223897|Pay It Forward|2000|movie|123|7.2|111436|Drama|Movie
+tt1540133|The Guard|2011|movie|96|7.3|79333|Comedy;Crime;Thriller|Movie
+tt6739094|Invader ZIM: Enter the Florpus|2019|tvMovie|71|7.5|4563|Action;Adventure;Animation|Movie
+tt0218505|Path to War|2002|tvMovie|165|7.3|3095|Biography;Drama;War|Movie
+tt2338151|PK|2014|movie|153|8.1|157493|Comedy;Drama;Musical|Movie
+tt1285125|Louis Theroux's African Hunting Holiday|2008|tvMovie|58|7.1|1035|Documentary|Movie
+tt1285016|The Social Network|2010|movie|120|7.7|609810|Biography;Drama|Movie
+tt0346039|Close to Leo|2002|tvMovie|88|7.0|1016|Drama;Romance|Movie
+tt1631867|Edge of Tomorrow|2014|movie|113|7.9|587023|Action;Adventure;Sci-Fi|Movie
+tt0419887|The Kite Runner|2007|movie|128|7.6|76672|Drama|Movie
+tt2024544|12 Years a Slave|2013|movie|134|8.1|625724|Biography;Drama;History|Movie
+tt1324027|Say Goodnight to the Bad Guys|2008|tvMovie|47|7.9|3142|Comedy|Movie
+tt4975722|Moonlight|2016|movie|111|7.4|264281|Drama|Movie
+tt1980929|Begin Again|2013|movie|104|7.4|139979|Comedy;Drama;Music|Movie
+tt0355702|Lords of Dogtown|2005|movie|107|7.1|51472|Biography;Drama;Sport|Movie
+tt0281358|A Walk to Remember|2002|movie|101|7.4|196772|Drama;Romance|Movie
+tt0437806|Alone in the Wilderness|2004|tvMovie|57|8.7|3404|Documentary|Movie
+tt3799694|The Nice Guys|2016|movie|116|7.4|270768|Action;Comedy;Crime|Movie
+tt0498360|Jesse Stone: Night Passage|2006|tvMovie|89|7.3|4124|Crime;Drama|Movie
+tt0272152|K-PAX|2001|movie|120|7.4|173353|Drama;Mystery;Sci-Fi|Movie
+tt0382737|Henry VIII|2003|tvMovie|193|7.2|2152|Biography;Drama;Romance|Movie
+tt8579674|1917|2019|movie|119|8.3|367074|Drama;War|Movie
+tt0359950|The Secret Life of Walter Mitty|2013|movie|114|7.3|288914|Comedy;Drama;Fantasy|Movie
+tt1000771|Recount|2008|tvMovie|116|7.4|11871|Drama;History|Movie
+tt0275847|Lilo & Stitch|2002|movie|85|7.2|164081|Adventure;Animation;Comedy|Movie
+tt0431420|Jesse Stone: Stone Cold|2005|tvMovie|87|7.2|5437|Crime;Drama;Mystery|Movie
+tt0118694|In the Mood for Love|2000|movie|98|8.1|119514|Drama;Romance|Movie
+tt1543920|Turtles Forever|2009|tvMovie|90|7.8|3297|Action;Adventure;Animation|Movie
+tt0206036|If These Walls Could Talk 2|2000|tvMovie|96|7.1|6522|Drama;Romance|Movie
+tt0302022|We Stand Alone Together|2001|tvMovie|78|8.6|1357|Documentary|Movie
+tt0335266|Lost in Translation|2003|movie|102|7.7|404368|Comedy;Drama|Movie
+tt0338013|Eternal Sunshine of the Spotless Mind|2004|movie|108|8.3|891580|Drama;Romance;Sci-Fi|Movie
+tt4468740|Paddington 2|2017|movie|103|7.8|58226|Adventure;Comedy;Family|Movie
+tt1092026|Paul|2011|movie|104|7.0|231843|Adventure;Comedy;Sci-Fi|Movie
+tt2273024|The Good Witch's Destiny|2013|tvMovie|82|7.1|1203|Drama;Family;Fantasy|Movie
+tt3076658|Creed|2015|movie|133|7.6|242085|Drama;Sport|Movie
+tt0230600|The Others|2001|movie|101|7.6|330951|Horror;Mystery;Thriller|Movie
+tt0400435|The Five People You Meet in Heaven|2004|tvMovie|180|7.3|5608|Drama;Fantasy|Movie
+tt0475276|United 93|2006|movie|111|7.5|97295|Action;Drama;History|Movie
+tt1282052|His Name Was Jason: 30 Years of Friday the 13th|2009|tvMovie|90|7.1|2792|Documentary;Horror|Movie
+tt1981677|Pitch Perfect|2012|movie|112|7.2|272149|Comedy;Music;Romance|Movie
+tt0424345|Clerks II|2006|movie|97|7.3|128944|Comedy|Movie
+tt2262227|The Book of Life|2014|movie|95|7.3|63268|Adventure;Animation;Comedy|Movie
+tt1101637|The Beckoning Silence|2007|tvMovie|73|7.5|1086|Drama|Movie
+tt1155056|I Love You, Man|2009|movie|105|7.0|191881|Comedy;Romance|Movie
+tt1714915|Only Lovers Left Alive|2013|movie|123|7.3|88626|Comedy;Drama;Fantasy|Movie
+tt2106476|The Hunt|2012|movie|115|8.3|270273|Drama|Movie
+tt0206634|Children of Men|2006|movie|109|7.9|457055|Adventure;Drama;Sci-Fi|Movie
+tt2080374|Steve Jobs|2015|movie|122|7.2|150755|Biography;Drama|Movie
+tt1465522|Tucker and Dale vs Evil|2010|movie|89|7.5|162701|Comedy;Horror|Movie
+tt1204342|The Muppets|2011|movie|120|7.1|86253|Adventure;Comedy;Family|Movie
+tt1663202|The Revenant|2015|movie|156|8.0|686233|Action;Adventure;Drama|Movie
+tt0313542|Runaway Jury|2003|movie|127|7.1|89792|Crime;Drama;Thriller|Movie
+tt1454468|Gravity|2013|movie|91|7.7|756644|Drama;Sci-Fi;Thriller|Movie
+tt0373469|Kiss Kiss Bang Bang|2005|movie|103|7.5|211717|Action;Comedy;Crime|Movie
+tt0962736|The Young Victoria|2009|movie|105|7.3|56819|Biography;Drama;History|Movie
+tt0172495|Gladiator|2000|movie|155|8.5|1310351|Action;Adventure;Drama|Movie
+tt0287467|Talk to Her|2002|movie|112|7.9|102951|Drama;Mystery;Romance|Movie
+tt0427309|The Great Debaters|2007|movie|126|7.5|55279|Biography;Drama;Romance|Movie
+tt1210166|Moneyball|2011|movie|133|7.6|355482|Biography;Drama;Sport|Movie
+tt1255953|Incendies|2010|movie|131|8.3|143117|Drama;Mystery;War|Movie
+tt1232829|21 Jump Street|2012|movie|109|7.2|502741|Action;Comedy;Crime|Movie
+tt4154796|Avengers: Endgame|2019|movie|181|8.4|759555|Action;Adventure;Drama|Movie
+tt0317219|Cars|2006|movie|117|7.1|358604|Animation;Comedy;Family|Movie
+tt2582802|Whiplash|2014|movie|106|8.5|692356|Drama;Music|Movie
+tt1600196|The Drop|2014|movie|106|7.1|139908|Crime;Drama;Thriller|Movie
+tt1313092|Animal Kingdom|2010|movie|113|7.3|54034|Crime;Drama|Movie
+tt0404030|Everything Is Illuminated|2005|movie|106|7.4|56294|Comedy;Drama|Movie
+tt0387131|The Constant Gardener|2005|movie|129|7.4|130597|Drama;Mystery;Romance|Movie
+tt0414387|Pride & Prejudice|2005|movie|129|7.8|248779|Drama;Romance|Movie
+tt0479143|Rocky Balboa|2006|movie|102|7.1|200905|Action;Drama;Sport|Movie
+tt1723121|We're the Millers|2013|movie|110|7.0|395870|Comedy;Crime|Movie
+tt1302006|The Irishman|2019|movie|209|7.9|305921|Biography;Crime;Drama|Movie
+tt0412080|The World's Fastest Indian|2005|movie|127|7.8|51291|Biography;Drama;Sport|Movie
+tt2395427|Avengers: Age of Ultron|2015|movie|141|7.3|723883|Action;Adventure;Sci-Fi|Movie
+tt0190590|O Brother, Where Art Thou?|2000|movie|107|7.7|279882|Adventure;Comedy;Crime|Movie
+tt1878870|The Edge of Seventeen|2016|movie|104|7.3|100969|Comedy;Drama|Movie
+tt1772341|Wreck-It Ralph|2012|movie|101|7.7|372069|Adventure;Animation;Comedy|Movie
+tt3716530|Elle|2016|movie|130|7.1|59789|Crime;Drama;Thriller|Movie
+tt0401792|Sin City|2005|movie|124|8.0|733501|Crime;Thriller|Movie
+tt1579306|A Soldier's Love Story|2010|tvMovie|88|7.0|1134|Drama;Romance|Movie
+tt1638355|The Man from U.N.C.L.E.|2015|movie|116|7.3|263264|Action;Adventure;Comedy|Movie
+tt10515852|Steven Universe: The Movie|2019|tvMovie|82|7.9|3998|Adventure;Animation;Comedy|Movie
+tt1645089|Inside Job|2010|movie|109|8.2|68424|Crime;Documentary|Movie
+tt1131729|Pirate Radio|2009|movie|135|7.4|106260|Comedy;Drama;Music|Movie
+tt0266697|Kill Bill: Vol. 1|2003|movie|111|8.1|978876|Action;Crime;Thriller|Movie
+tt1135503|Julie & Julia|2009|movie|123|7.0|105304|Biography;Drama;Romance|Movie
+tt0387898|Caché|2005|movie|117|7.3|71911|Drama;Mystery;Thriller|Movie
+tt6723592|Tenet|2020|movie|150|7.9|97353|Action;Sci-Fi|Movie
+tt2788526|Transformers Prime Beast Hunters: Predacons Rising|2013|tvMovie|65|7.6|1032|Action;Animation;Family|Movie
+tt1136608|District 9|2009|movie|112|7.9|630815|Action;Sci-Fi;Thriller|Movie
+tt0192263|Longitude|2000|tvMovie|200|7.8|2073|Drama;History|Movie
+tt5247022|Paterson|2016|movie|118|7.4|67253|Comedy;Drama;Romance|Movie
+tt0383053|Windy City Heat|2003|tvMovie|120|7.4|1625|Comedy|Movie
+tt0181536|Finding Forrester|2000|movie|136|7.3|81590|Drama|Movie
+tt0253474|The Pianist|2002|movie|150|8.5|709281|Biography;Drama;Music|Movie
+tt1265998|Afro Samurai: Resurrection|2009|tvMovie|97|7.2|8156|Action;Adventure;Animation|Movie
+tt3145422|The After|2014|tvMovie|55|7.5|8204|Drama;Fantasy;Horror|Movie
+tt1341167|Four Lions|2010|movie|97|7.3|70582|Comedy;Crime;Drama|Movie
+tt0377972|The Wool Cap|2004|tvMovie|103|7.2|1086|Drama|Movie
+tt6326286|Maigret: Night at the Crossroads|2017|tvMovie|88|7.5|3539|Crime;Drama;Mystery|Movie
+tt0268978|A Beautiful Mind|2001|movie|135|8.2|829003|Biography;Drama|Movie
+tt6499752|Upgrade|2018|movie|100|7.5|149162|Action;Sci-Fi;Thriller|Movie
+tt0185014|Wonder Boys|2000|movie|107|7.2|60609|Comedy;Drama|Movie
+tt0212338|Meet the Parents|2000|movie|108|7.0|306783|Comedy;Romance|Movie
+tt4271918|An Inspector Calls|2015|tvMovie|87|7.7|9436|Crime;Drama;Mystery|Movie
+tt6543420|Andre the Giant|2018|tvMovie|85|7.8|5309|Biography;Documentary;Sport|Movie
+tt2883512|Chef|2014|movie|114|7.3|190517|Adventure;Comedy;Drama|Movie
+tt4633690|Shot Caller|2017|movie|121|7.3|68907|Crime;Drama;Thriller|Movie
+tt0780511|Everybody's Fine|2009|movie|100|7.1|58148|Drama|Movie
+tt1228705|Iron Man 2|2010|movie|124|7.0|707321|Action;Adventure;Sci-Fi|Movie
+tt0787484|A Girl Like Me: The Gwen Araujo Story|2006|tvMovie|88|7.5|1743|Biography;Drama|Movie
+tt4846232|Good Time|2017|movie|102|7.4|81216|Crime;Drama;Thriller|Movie
+tt3532216|American Made|2017|movie|115|7.2|153710|Action;Biography;Comedy|Movie
+tt1179933|10 Cloverfield Lane|2016|movie|103|7.2|283642|Action;Drama;Horror|Movie
+tt0166813|Spirit: Stallion of the Cimarron|2002|movie|83|7.1|63632|Adventure;Animation;Drama|Movie
+tt4034354|Swiss Army Man|2016|movie|97|7.0|103260|Comedy;Drama;Fantasy|Movie
+tt0991178|Battlestar Galactica: Razor|2007|tvMovie|101|7.6|21447|Action;Drama;Sci-Fi|Movie
+tt1259574|Red Riding: The Year of Our Lord 1974|2009|tvMovie|102|7.0|11333|Crime;Drama;Mystery|Movie
+tt1825918|Phineas and Ferb the Movie: Across the 2nd Dimension|2011|tvMovie|78|7.4|8353|Action;Adventure;Animation|Movie
+tt1567609|Get the Gringo|2012|movie|96|7.0|102156|Action;Crime;Drama|Movie
+tt0853153|Stuart: A Life Backwards|2007|tvMovie|92|7.8|9614|Biography;Drama|Movie
+tt0210628|The Crossing|2000|tvMovie|89|7.1|1778|Biography;Drama;History|Movie
+tt4366830|Grease Live!|2016|tvMovie|140|7.3|8519|Musical;Romance|Movie
+tt0276751|About a Boy|2002|movie|101|7.0|169491|Comedy;Drama;Romance|Movie
+tt1646971|How to Train Your Dragon 2|2014|movie|102|7.8|298852|Action;Adventure;Animation|Movie
+tt0393109|Brick|2005|movie|110|7.3|99928|Action;Crime;Drama|Movie
+tt9046574|ReMastered: Devil at the Crossroads|2019|tvMovie|48|7.0|1972|Biography;Documentary|Movie
+tt0462504|Rescue Dawn|2006|movie|120|7.3|99681|Action;Biography;Drama|Movie
+tt3416532|A Monster Calls|2016|movie|108|7.5|78792|Adventure;Drama;Family|Movie
+tt0499549|Avatar|2009|movie|162|7.8|1102351|Action;Adventure;Fantasy|Movie
+tt8267604|Capernaum|2018|movie|126|8.4|54251|Drama|Movie
+tt0374546|Spring, Summer, Fall, Winter... and Spring|2003|movie|103|8.0|75727|Drama;Romance|Movie
+tt0387301|I Want a Dog for Christmas, Charlie Brown|2003|tvMovie|43|7.1|1342|Animation;Family|Movie
+tt1424432|Senna|2010|movie|106|8.5|62445|Biography;Documentary;Sport|Movie
+tt1152836|Public Enemies|2009|movie|140|7.0|278100|Biography;Crime;Drama|Movie
+tt1597178|Worried About the Boy|2010|tvMovie|87|7.1|1334|Biography;Drama;Music|Movie
+tt0467406|Juno|2007|movie|96|7.4|484331|Comedy;Drama|Movie
+tt0428803|March of the Penguins|2005|movie|80|7.5|55320|Documentary;Family|Movie
+tt0338109|Homeless to Harvard: The Liz Murray Story|2003|tvMovie|104|7.2|3643|Biography;Drama|Movie
+tt5027774|Three Billboards Outside Ebbing, Missouri|2017|movie|115|8.2|413015|Comedy;Crime;Drama|Movie
+tt0360486|Constantine|2005|movie|121|7.0|300056|Action;Fantasy;Horror|Movie
+tt0287535|The Lost Battalion|2001|tvMovie|92|7.0|6605|Action;Drama;War|Movie
+tt3316960|Still Alice|2014|movie|101|7.5|124527|Drama|Movie
+tt5664684|Hairspray Live!|2016|tvMovie|120|7.0|2943|Comedy;Drama;Musical|Movie
+tt0250934|61*|2001|tvMovie|129|7.8|13603|Biography;Drama;History|Movie
+tt2402927|Carol|2015|movie|118|7.2|112091|Drama;Romance|Movie
+tt3544112|Sing Street|2016|movie|106|7.9|83007|Comedy;Drama;Music|Movie
+tt1315981|A Single Man|2009|movie|99|7.6|104503|Drama;Romance|Movie
+tt0295297|Harry Potter and the Chamber of Secrets|2002|movie|161|7.4|536882|Adventure;Family;Fantasy|Movie
+tt0414852|District B13|2004|movie|84|7.2|65828|Action;Crime;Sci-Fi|Movie
+tt2631186|Baahubali: The Beginning|2015|movie|159|8.1|100388|Action;Drama|Movie
+tt0203009|Moulin Rouge!|2001|movie|127|7.6|263123|Drama;Musical;Romance|Movie
+tt4016934|The Handmaiden|2016|movie|145|8.1|105254|Drama;Romance;Thriller|Movie
+tt1280558|A Wednesday|2008|movie|104|8.1|72713|Action;Crime;Drama|Movie
+tt0435625|The Descent|2005|movie|99|7.2|197215|Adventure;Horror;Thriller|Movie
+tt1340800|Tinker Tailor Soldier Spy|2011|movie|122|7.0|183945|Drama;Mystery;Thriller|Movie
+tt9243946|El Camino: A Breaking Bad Movie|2019|movie|122|7.3|173000|Action;Crime;Drama|Movie
+tt2265171|The Raid 2|2014|movie|150|8.0|112242|Action;Crime;Thriller|Movie
+tt0314331|Love Actually|2003|movie|135|7.6|416123|Comedy;Drama;Romance|Movie
+tt0408236|Sweeney Todd: The Demon Barber of Fleet Street|2007|movie|116|7.3|338001|Drama;Horror;Musical|Movie
+tt0383028|Synecdoche, New York|2008|movie|124|7.6|80301|Drama|Movie
+tt0473389|The Ron Clark Story|2006|tvMovie|90|7.7|9244|Biography;Drama|Movie
+tt2053425|Rust and Bone|2012|movie|120|7.5|62641|Drama;Romance|Movie
+tt0387361|Louis Theroux: Louis and the Brothel|2003|tvMovie|80|7.5|1540|Documentary|Movie
+tt0214698|The Three Stooges|2000|tvMovie|88|7.0|1781|Biography;Comedy;Drama|Movie
+tt4857264|The Invisible Guest|2016|movie|106|8.1|128141|Crime;Drama;Mystery|Movie
+tt8716334|Springsteen on Broadway|2018|tvMovie|153|8.5|1797|Documentary;Music|Movie
+tt0417741|Harry Potter and the Half-Blood Prince|2009|movie|153|7.6|458968|Action;Adventure;Family|Movie
+tt7688990|Christmas Getaway|2017|tvMovie|90|7.1|1863|Drama;Romance|Movie
+tt0449467|Babel|2006|movie|143|7.4|285552|Drama|Movie
+tt0298203|8 Mile|2002|movie|110|7.1|245194|Drama;Music|Movie
+tt0431308|P.S. I Love You|2007|movie|126|7.0|198138|Comedy;Drama;Romance|Movie
+tt6628394|Bad Times at the El Royale|2018|movie|141|7.1|123790|Crime;Drama;Mystery|Movie
+tt0945513|Source Code|2011|movie|93|7.5|477298|Action;Drama;Mystery|Movie
+tt1877740|Five|2011|tvMovie|87|7.0|1051|Comedy;Drama|Movie
+tt1559025|Amish Grace|2010|tvMovie|89|7.1|1659|Biography;Drama|Movie
+tt0462538|The Simpsons Movie|2007|movie|87|7.3|305196|Adventure;Animation;Comedy|Movie
+tt5700672|Train to Busan|2016|movie|118|7.6|152888|Action;Horror;Thriller|Movie
+tt0212720|A.I. Artificial Intelligence|2001|movie|146|7.2|286699|Drama;Sci-Fi|Movie
+tt0246578|Donnie Darko|2001|movie|113|8.0|729071|Drama;Mystery;Sci-Fi|Movie
+tt0250798|Uprising|2001|tvMovie|177|7.2|4529|Drama;War|Movie
+tt0808482|Stephen Fry: The Secret Life of the Manic Depressive|2006|tvMovie|120|8.1|1134|Documentary|Movie
+tt1028532|Hachi: A Dog's Tale|2009|movie|93|8.1|246343|Drama;Family|Movie
+tt2543472|Wonder|2017|movie|113|8.0|134892|Drama;Family|Movie
+tt1073510|Prayers for Bobby|2009|tvMovie|90|8.1|15232|Biography;Drama;Romance|Movie
+tt0350258|Ray|2004|movie|152|7.7|136250|Biography;Drama;Music|Movie
+tt0758794|We Are Marshall|2006|movie|131|7.1|56548|Drama;Sport|Movie
+tt1174732|An Education|2009|movie|100|7.3|127071|Drama|Movie
+tt0418279|Transformers|2007|movie|144|7.0|589794|Action;Adventure;Sci-Fi|Movie
+tt1542344|127 Hours|2010|movie|94|7.5|342622|Biography;Drama|Movie
+tt0307987|Bad Santa|2003|movie|92|7.0|131848|Comedy;Crime;Drama|Movie
+tt0473705|State of Play|2009|movie|127|7.1|133141|Crime;Drama;Mystery|Movie
+tt3498820|Captain America: Civil War|2016|movie|147|7.8|645541|Action;Adventure;Sci-Fi|Movie
+tt1187043|3 Idiots|2009|movie|170|8.4|333076|Comedy;Drama|Movie
+tt7521040|George Michael: Freedom|2017|tvMovie|95|7.7|1245|Biography;Documentary;Music|Movie
+tt1189073|The Skin I Live In|2011|movie|120|7.6|135339|Drama;Horror;Thriller|Movie
+tt0825232|The Bucket List|2007|movie|97|7.4|227079|Comedy;Drama|Movie
+tt2421662|The Challenger Disaster|2013|tvMovie|90|7.3|3928|Drama;History|Movie
+tt2004262|Jesse Stone: Benefit of the Doubt|2012|tvMovie|90|7.1|2608|Action;Crime;Drama|Movie
+tt1270798|X-Men: First Class|2011|movie|131|7.7|637538|Action;Adventure;Sci-Fi|Movie
+tt0316654|Spider-Man 2|2004|movie|127|7.3|533283|Action;Adventure;Sci-Fi|Movie
+tt7657462|A Bramble House Christmas|2017|tvMovie|84|7.1|1613|Drama|Movie
+tt4686844|The Death of Stalin|2017|movie|107|7.2|82372|Comedy;Drama;History|Movie
+tt1322269|August: Osage County|2013|movie|121|7.2|83502|Comedy;Drama|Movie
+tt2527336|Star Wars: Episode VIII - The Last Jedi|2017|movie|152|7.0|548682|Action;Adventure;Fantasy|Movie
+tt0238380|Equilibrium|2002|movie|107|7.4|308379|Action;Drama;Sci-Fi|Movie
+tt5463162|Deadpool 2|2018|movie|119|7.7|461925|Action;Adventure;Comedy|Movie
+tt7901640|Just Friends|2018|tvMovie|80|7.1|2319|Comedy;Romance|Movie
+tt1950186|Ford v Ferrari|2019|movie|152|8.1|255725|Action;Biography;Drama|Movie
+tt0435761|Toy Story 3|2010|movie|103|8.3|740804|Adventure;Animation;Comedy|Movie
+tt0765429|American Gangster|2007|movie|157|7.8|384054|Biography;Crime;Drama|Movie
+tt8965432|John & Yoko: Above Us Only Sky|2018|tvMovie|90|7.4|1209|Documentary|Movie
+tt4209788|Molly's Game|2017|movie|140|7.4|134261|Biography;Crime;Drama|Movie
+tt2194499|About Time|2013|movie|123|7.8|290386|Comedy;Drama;Fantasy|Movie
+tt0298148|Shrek 2|2004|movie|93|7.2|410680|Adventure;Animation;Comedy|Movie
+tt0985699|Valkyrie|2008|movie|121|7.1|225097|Drama;History;Thriller|Movie
+tt5237552|A Gift Wrapped Christmas|2015|tvMovie|87|7.2|1190|Comedy;Drama;Family|Movie
+tt0327890|Horatio Hornblower 3|2003|tvMovie|125|8.1|2988|Adventure;Drama;War|Movie
+tt1019452|A Serious Man|2009|movie|106|7.0|131032|Comedy;Drama|Movie
+tt1969057|Homevideo|2011|tvMovie|89|7.4|1100|Drama|Movie
+tt0448134|Sunshine|2007|movie|107|7.2|230017|Sci-Fi;Thriller|Movie
+tt1527186|Melancholia|2011|movie|135|7.2|164713|Drama;Sci-Fi|Movie
+tt4901306|Perfect Strangers|2016|movie|96|7.8|54627|Comedy;Drama|Movie
+tt0947798|Black Swan|2010|movie|108|8.0|687015|Drama;Thriller|Movie
+tt0166924|Mulholland Dr.|2001|movie|147|8.0|313612|Drama;Mystery;Thriller|Movie
+tt1440292|Submarine|2010|movie|97|7.3|84219|Comedy;Drama;Romance|Movie
+tt0929632|Precious|2009|movie|110|7.3|104250|Drama|Movie
+tt0983193|The Adventures of Tintin|2011|movie|107|7.3|213435|Action;Adventure;Animation|Movie
+tt0181865|Traffic|2000|movie|147|7.6|193393|Crime;Drama;Thriller|Movie
+tt4176340|Samurai Jack: The Premiere Movie|2001|tvMovie|90|8.6|1875|Action;Animation;Comedy|Movie
+tt0486655|Stardust|2007|movie|127|7.6|250553|Adventure;Family;Fantasy|Movie
+tt1312251|The Good Witch's Garden|2009|tvMovie|86|7.2|1826|Drama;Family;Fantasy|Movie
+tt2386490|How to Train Your Dragon: The Hidden World|2019|movie|104|7.5|97560|Action;Adventure;Animation|Movie
+tt0292963|Before the Devil Knows You're Dead|2007|movie|117|7.3|95059|Crime;Drama;Thriller|Movie
+tt0758774|Body of Lies|2008|movie|128|7.1|210404|Action;Drama;Thriller|Movie
+tt0495027|Cracker|2006|tvMovie|109|7.8|1581|Crime;Drama|Movie
+tt1615147|Margin Call|2011|movie|107|7.1|114504|Drama;Thriller|Movie
+tt1563738|One Day|2011|movie|107|7.0|135937|Drama;Romance|Movie
+tt9046564|ReMastered: The Two Killings of Sam Cooke|2019|tvMovie|74|7.2|1570|Documentary;Music|Movie
+tt1371111|Cloud Atlas|2012|movie|172|7.4|340654|Action;Drama;Mystery|Movie
+tt0452694|The Time Traveler's Wife|2009|movie|107|7.1|138705|Drama;Fantasy;Romance|Movie
+tt4481414|Gifted|2017|movie|101|7.6|96083|Drama|Movie
+tt0239894|Paradise Lost 2: Revelations|2000|tvMovie|130|7.6|8003|Crime;Documentary|Movie
+tt1555126|The Secret Diaries of Miss Anne Lister|2010|tvMovie|92|7.0|1813|Biography;Drama;Romance|Movie
+tt3258142|Top Gear: The Perfect Road Trip|2013|tvMovie|85|7.9|3618|Comedy;Documentary|Movie
+tt1742683|Too Big to Fail|2011|tvMovie|99|7.3|15163|Biography;Drama;History|Movie
+tt0426931|August Rush|2007|movie|114|7.5|102421|Drama;Music|Movie
+tt2872718|Nightcrawler|2014|movie|117|7.9|450426|Crime;Drama;Thriller|Movie
+tt10422658|25 Litre|2019|tvMovie||9.1|1804|Documentary|Movie
+tt2137442|CrazySexyCool: The TLC Story|2013|tvMovie|105|7.6|2120|Biography;Drama;Music|Movie
+tt1295085|Gifted Hands: The Ben Carson Story|2009|tvMovie|86|7.7|8922|Biography;Drama|Movie
+tt0361748|Inglourious Basterds|2009|movie|153|8.3|1232290|Adventure;Drama;War|Movie
+tt3659786|Marvellous|2014|tvMovie|90|7.9|5608|Drama|Movie
+tt0892769|How to Train Your Dragon|2010|movie|98|8.1|652481|Action;Adventure;Animation|Movie
+tt3822818|Naked Among Wolves|2015|tvMovie|105|7.2|3678|Drama;History;War|Movie
+tt3896198|Guardians of the Galaxy Vol. 2|2017|movie|136|7.6|551508|Action;Adventure;Comedy|Movie
+tt1105729|The Good Witch|2008|tvMovie|89|7.2|3432|Drama;Family;Fantasy|Movie
+tt1446714|Prometheus|2012|movie|124|7.0|561094|Adventure;Mystery;Sci-Fi|Movie
+tt8404614|The Two Popes|2019|movie|125|7.6|98888|Comedy;Drama|Movie
+tt1650062|Super 8|2011|movie|112|7.0|334732|Action;Adventure;Sci-Fi|Movie
+tt2948356|Zootopia|2016|movie|108|8.0|422023|Adventure;Animation;Comedy|Movie
+tt0838221|The Darjeeling Limited|2007|movie|91|7.2|176996|Adventure;Comedy;Drama|Movie
+tt4912910|Mission: Impossible - Fallout|2018|movie|147|7.7|281788|Action;Adventure;Thriller|Movie
+tt3783958|La La Land|2016|movie|128|8.0|489250|Comedy;Drama;Music|Movie
+tt0292490|Dil Chahta Hai|2001|movie|183|8.1|65587|Comedy;Drama;Romance|Movie
+tt1412386|The Best Exotic Marigold Hotel|2011|movie|124|7.2|89013|Comedy;Drama;Romance|Movie
+tt0805564|Lars and the Real Girl|2007|movie|106|7.3|136627|Comedy;Drama;Romance|Movie
+tt3315342|Logan|2017|movie|137|8.1|628884|Action;Drama;Sci-Fi|Movie
+tt0265086|Black Hawk Down|2001|movie|144|7.7|358589|Drama;History;War|Movie
+tt1212450|Lawless|2012|movie|116|7.3|224540|Crime;Drama|Movie
+tt5104604|Isle of Dogs|2018|movie|101|7.9|133210|Adventure;Animation;Comedy|Movie
+tt0472043|Apocalypto|2006|movie|139|7.8|286589|Action;Adventure;Drama|Movie
+tt6268052|Oasis|2017|tvMovie|60|8.1|5069|Drama;Sci-Fi|Movie
+tt1166100|Ghajini|2008|movie|186|7.3|55424|Action;Drama;Mystery|Movie
+tt0993846|The Wolf of Wall Street|2013|movie|180|8.2|1144192|Biography;Crime;Drama|Movie
+tt0758758|Into the Wild|2007|movie|148|8.1|561516|Adventure;Biography;Drama|Movie
+tt0180093|Requiem for a Dream|2000|movie|102|8.3|749658|Drama|Movie
+tt4062536|Green Room|2015|movie|95|7.0|104135|Horror;Music;Thriller|Movie
+tt1515091|Sherlock Holmes: A Game of Shadows|2011|movie|129|7.5|414267|Action;Adventure;Mystery|Movie
+tt1172570|Bronson|2008|movie|92|7.1|117759|Action;Biography;Crime|Movie
+tt1446192|Rise of the Guardians|2012|movie|97|7.3|153606|Action;Adventure;Animation|Movie
+tt5017060|Maigret's Dead Man|2016|tvMovie|88|7.1|6160|Crime;Drama;Mystery|Movie
+tt0332379|School of Rock|2003|movie|109|7.1|262995|Comedy;Music|Movie
+tt0121164|Corpse Bride|2005|movie|77|7.3|237744|Animation;Drama;Family|Movie
+tt6751668|Parasite|2019|movie|132|8.6|476929|Comedy;Drama;Thriller|Movie
+tt2278388|The Grand Budapest Hotel|2014|movie|99|8.1|688868|Adventure;Comedy;Crime|Movie
+tt2053463|Side Effects|2013|movie|106|7.1|177841|Crime;Drama;Mystery|Movie
+tt0325980|Pirates of the Caribbean: The Curse of the Black Pearl|2003|movie|143|8.0|1002153|Action;Adventure;Fantasy|Movie
+tt2582846|The Fault in Our Stars|2014|movie|126|7.7|337573|Drama;Romance|Movie
+tt0296251|Tru Confessions|2002|tvMovie|112|7.5|2930|Comedy;Drama;Family|Movie
+tt3416742|What We Do in the Shadows|2014|movie|86|7.7|151157|Comedy;Horror|Movie
+tt0497465|Vicky Cristina Barcelona|2008|movie|96|7.1|239132|Comedy;Drama;Romance|Movie
+tt0328107|Man on Fire|2004|movie|146|7.7|324202|Action;Crime;Drama|Movie
+tt2980648|The Hundred-Foot Journey|2014|movie|122|7.3|75118|Comedy;Drama|Movie
+tt3659388|The Martian|2015|movie|144|8.0|742090|Adventure;Drama;Sci-Fi|Movie
+tt0369610|Jurassic World|2015|movie|124|7.0|570115|Action;Adventure;Sci-Fi|Movie
+tt1065073|Boyhood|2014|movie|165|7.9|331123|Drama|Movie
+tt0385002|Green Street Hooligans|2005|movie|109|7.5|139995|Crime;Drama;Sport|Movie
+tt5013056|Dunkirk|2017|movie|106|7.9|533990|Action;Drama;History|Movie
+tt0274812|Secretary|2002|movie|107|7.0|81923|Comedy;Drama;Romance|Movie
+tt0378194|Kill Bill: Vol. 2|2004|movie|137|8.0|669279|Action;Crime;Thriller|Movie
+tt0876563|Ponyo|2008|movie|101|7.7|120525|Adventure;Animation;Comedy|Movie
+tt0816692|Interstellar|2014|movie|169|8.6|1454644|Adventure;Drama;Sci-Fi|Movie
+tt0427470|The Lookout|2007|movie|99|7.0|56184|Crime;Drama;Thriller|Movie
+tt0285627|Daria in 'Is It College Yet?'|2002|tvMovie|90|8.2|3392|Animation;Comedy;Romance|Movie
+tt0810819|The Danish Girl|2015|movie|119|7.1|159984|Biography;Drama;Romance|Movie
+tt0401711|Paris, je t'aime|2006|movie|120|7.2|69926|Comedy;Drama;Romance|Movie
+tt0452623|Gone Baby Gone|2007|movie|114|7.6|245991|Crime;Drama;Mystery|Movie
+tt5164432|Love, Simon|2018|movie|110|7.6|94800|Comedy;Drama;Romance|Movie
+tt0446755|The Painted Veil|2006|movie|125|7.5|88147|Drama;Romance|Movie
+tt0367501|Anglian Lives: Alan Partridge|2003|tvMovie|29|8.5|2329|Comedy|Movie
+tt3000844|Signed Sealed Delivered|2013|tvMovie|87|7.7|1146|Comedy;Drama|Movie
+tt0418689|Flags of Our Fathers|2006|movie|135|7.1|116115|Action;Adventure;Drama|Movie
+tt0424136|Hard Candy|2005|movie|104|7.1|152095|Drama;Thriller|Movie
+tt0203019|Men of Honor|2000|movie|129|7.2|105547|Biography;Drama|Movie
+tt0121766|Star Wars: Episode III - Revenge of the Sith|2005|movie|140|7.5|695155|Action;Adventure;Fantasy|Movie
+tt0454876|Life of Pi|2012|movie|127|7.9|571019|Adventure;Drama;Fantasy|Movie
+tt0375912|Layer Cake|2004|movie|105|7.3|163911|Action;Crime;Drama|Movie
+tt0289992|The Life of David Gale|2003|movie|130|7.6|107802|Crime;Drama;Thriller|Movie
+tt0816442|The Book Thief|2013|movie|131|7.6|125438|Drama;War|Movie
+tt1392190|Mad Max: Fury Road|2015|movie|120|8.1|858207|Action;Adventure;Sci-Fi|Movie
+tt2671706|Fences|2016|movie|139|7.2|95491|Drama|Movie
+tt0887883|Burn After Reading|2008|movie|96|7.0|304507|Comedy;Crime;Drama|Movie
+tt6987652|Oh, Hello on Broadway|2017|tvMovie|102|7.8|2468|Comedy|Movie
+tt1638002|Love, Rosie|2014|movie|102|7.2|117667|Comedy;Romance|Movie
+tt1862079|Safety Not Guaranteed|2012|movie|86|7.0|117250|Comedy;Drama;Romance|Movie
+tt0485947|Mr. Nobody|2009|movie|141|7.8|212115|Drama;Fantasy;Romance|Movie
+tt2359024|Blue Ruin|2013|movie|90|7.1|65116|Crime;Drama;Thriller|Movie
+tt0840361|The Town|2010|movie|125|7.5|345484|Crime;Drama;Thriller|Movie
+tt2937898|A Most Violent Year|2014|movie|125|7.0|65365|Action;Crime;Drama|Movie
+tt0345950|The SpongeBob SquarePants Movie|2004|movie|87|7.1|76973|Action;Adventure;Animation|Movie
+tt1981637|Holy Flying Circus|2011|tvMovie|89|7.1|1450|Comedy;Drama|Movie
+tt1229822|Jane Eyre|2011|movie|120|7.3|79998|Drama;Romance|Movie
+tt0333766|Garden State|2004|movie|102|7.4|205392|Comedy;Drama;Romance|Movie
+tt0783494|The Christmas Card|2006|tvMovie|84|7.0|3390|Drama;Romance|Movie
+tt1691338|Robot Chicken: Star Wars III|2010|tvMovie|45|8.1|4152|Animation;Comedy;Family|Movie
+tt3460252|The Hateful Eight|2015|movie|168|7.8|500112|Crime;Drama;Mystery|Movie
+tt1045658|Silver Linings Playbook|2012|movie|122|7.7|651782|Comedy;Drama;Romance|Movie
+tt4353376|Kobe Bryant's Muse|2015|tvMovie|105|7.9|1488|Biography;Documentary;Sport|Movie
+tt0468492|The Host|2006|movie|120|7.1|103169|Action;Drama;Horror|Movie
+tt4575576|Christopher Robin|2018|movie|104|7.3|66173|Comedy;Drama;Family|Movie
+tt1182345|Moon|2009|movie|97|7.9|330189|Drama;Mystery;Sci-Fi|Movie
+tt0349747|The Lost Prince|2003|tvMovie|180|7.7|1821|Biography;Drama|Movie
+tt4935200|Demimonde|2015|tvMovie|88|7.2|2356|Drama;History;Mystery|Movie
+tt7984734|The Lighthouse|2019|movie|109|7.5|122538|Drama;Fantasy;Horror|Movie
+tt2207658|Louis Theroux: Twilight of the Porn Stars|2012|tvMovie|60|7.3|1483|Documentary|Movie
+tt0379786|Serenity|2005|movie|119|7.8|280097|Action;Adventure;Sci-Fi|Movie
+tt0856797|Ghost in the Shell: Stand Alone Complex - Solid State Society|2006|tvMovie|108|8.0|6465|Action;Adventure;Animation|Movie
+tt1100089|Foxcatcher|2014|movie|134|7.0|132590|Biography;Drama;Sport|Movie
+tt1843866|Captain America: The Winter Soldier|2014|movie|136|7.7|720200|Action;Adventure;Sci-Fi|Movie
+tt0286112|Shaolin Soccer|2001|movie|113|7.3|73212|Action;Comedy;Family|Movie
+tt0499260|Sybil|2007|tvMovie|89|7.0|1465|Drama|Movie
+tt0338290|Normal|2003|tvMovie|110|7.2|3154|Drama|Movie
+tt1872194|The Judge|2014|movie|141|7.4|174268|Crime;Drama|Movie
+tt1173907|Life After People|2008|tvMovie|108|7.4|2939|Documentary;Sci-Fi|Movie
+tt0389074|Kim Possible: A Sitch in Time|2003|tvMovie|66|7.0|3895|Adventure;Animation;Comedy|Movie
+tt0449059|Little Miss Sunshine|2006|movie|101|7.8|432548|Comedy;Drama|Movie
+tt0273656|Hornblower: Mutiny|2001|tvMovie|98|8.2|3783|Adventure;Drama;History|Movie
+tt1043903|Clapham Junction|2007|tvMovie|120|7.2|2670|Drama;Romance|Movie
+tt1588170|I Saw the Devil|2010|movie|144|7.8|106390|Action;Crime;Drama|Movie
+tt1449175|Hamlet|2009|tvMovie|180|8.2|3094|Drama|Movie
+tt0314097|The Gathering Storm|2002|tvMovie|96|7.5|5495|Biography;Drama;History|Movie
+tt1292594|Front of the Class|2008|tvMovie|95|8.1|6144|Drama|Movie
+tt5657856|Brawl in Cell Block 99|2017|movie|132|7.1|56607|Action;Crime;Drama|Movie
+tt3397884|Sicario|2015|movie|121|7.6|361522|Action;Crime;Drama|Movie
+tt1216487|The Girl Who Played with Fire|2009|movie|129|7.2|89631|Crime;Drama;Mystery|Movie
+tt0309987|The Dreamers|2003|movie|115|7.2|108720|Drama;Romance|Movie
+tt0381681|Before Sunset|2004|movie|80|8.0|229376|Drama;Romance|Movie
+tt1013753|Milk|2008|movie|128|7.5|162597|Biography;Drama|Movie
+tt0480025|This Is England|2006|movie|101|7.7|114318|Crime;Drama|Movie
+tt0433383|Good Night, and Good Luck.|2005|movie|93|7.4|93162|Biography;Drama;History|Movie
+tt7714136|Karen Kingsbury's Maggie's Christmas Miracle|2017|tvMovie|83|7.0|1252|Drama;Family;Romance|Movie
+tt3007512|The Water Diviner|2014|movie|111|7.0|70428|Drama;History;War|Movie
+tt10345008|Write Before Christmas|2019|tvMovie|84|7.2|1137|Drama;Romance|Movie
+tt0280707|Gosford Park|2001|movie|131|7.2|79048|Comedy;Drama;Mystery|Movie
+tt0914798|The Boy in the Striped Pajamas|2008|movie|94|7.8|186150|Drama;War|Movie
+tt1001526|Megamind|2010|movie|95|7.2|223325|Action;Animation;Comedy|Movie
+tt0443706|Zodiac|2007|movie|157|7.7|445898|Crime;Drama;Mystery|Movie
+tt1327788|The Most Wonderful Time of the Year|2008|tvMovie|88|7.3|3181|Comedy;Drama;Family|Movie
+tt2763304|T2 Trainspotting|2017|movie|117|7.2|110155|Drama|Movie
+tt1396484|It|2017|movie|135|7.3|443699|Horror|Movie
+tt0482552|My Family and Other Animals|2005|tvMovie|90|7.4|1603|Comedy;Drama|Movie
+tt0186151|Frequency|2000|movie|118|7.3|99592|Crime;Drama;Mystery|Movie
+tt4613322|Louis Theroux: Transgender Kids|2015|tvMovie|59|7.1|1039|Documentary|Movie
+tt0271732|The Pretender 2001|2001|tvMovie|96|7.6|2365|Action;Crime;Mystery|Movie
+tt0310775|Sympathy for Mr. Vengeance|2002|movie|129|7.6|61186|Crime;Drama;Thriller|Movie
+tt0299977|Hero|2002|movie|120|7.9|172230|Action;Adventure;History|Movie
+tt0385004|House of Flying Daggers|2004|movie|119|7.5|106604|Action;Adventure;Drama|Movie
+tt1705977|Carrie Fisher: Wishful Drinking|2010|tvMovie|77|7.6|1725|Comedy;Documentary|Movie
+tt1063669|The Wave|2008|movie|107|7.6|100809|Drama;Thriller|Movie
+tt1692486|Carnage|2011|movie|80|7.2|117620|Comedy;Drama|Movie
+tt0218127|Crossfire Trail|2001|tvMovie|92|7.2|2786|Action;Western|Movie
+tt3591568|Marvel Studios: Assembling a Universe|2014|tvMovie|43|7.5|1039|Documentary;History|Movie
+tt1954299|I Am Bruce Lee|2012|tvMovie|94|7.5|3587|Biography;Documentary|Movie
+tt0309698|Identity|2003|movie|90|7.3|222976|Mystery;Thriller|Movie
+tt0758751|Grey Gardens|2009|tvMovie|104|7.4|9329|Biography;Drama|Movie
+tt0427944|Thank You for Smoking|2005|movie|92|7.6|211250|Comedy;Drama|Movie
+tt0265666|The Royal Tenenbaums|2001|movie|110|7.6|261258|Comedy;Drama|Movie
+tt0490204|Reign Over Me|2007|movie|124|7.4|92318|Drama|Movie
+tt0213565|The Color of Friendship|2000|tvMovie|87|7.2|3378|Biography;Drama;Family|Movie
+tt2250912|Spider-Man: Homecoming|2017|movie|133|7.4|495231|Action;Adventure;Sci-Fi|Movie
+tt0478134|In the Valley of Elah|2007|movie|121|7.1|68075|Crime;Drama;Mystery|Movie
+tt0443518|The Girl in the Café|2005|tvMovie|94|7.4|8113|Drama;Romance|Movie
+tt9087578|Once Upon a Christmas Miracle|2018|tvMovie|83|7.6|1203|Drama|Movie
+tt0353969|Memories of Murder|2003|movie|131|8.1|128845|Action;Crime;Drama|Movie
+tt0875695|The Iceman and the Psychiatrist|2003|tvMovie|48|7.6|1067|Crime;Documentary|Movie
+tt1363109|Journey to the Edge of the Universe|2008|tvMovie|91|8.5|3848|Documentary;Family|Movie
+tt1032846|4 Months, 3 Weeks and 2 Days|2007|movie|113|7.9|55570|Drama|Movie
+tt0258463|The Bourne Identity|2002|movie|119|7.9|499641|Action;Mystery;Thriller|Movie
+tt6048922|Greyhound|2020|movie|91|7.0|50505|Action;Drama;History|Movie
+tt5580036|I, Tonya|2017|movie|119|7.5|173758|Biography;Comedy;Drama|Movie
+tt1192628|Rango|2011|movie|107|7.2|231488|Adventure;Animation;Comedy|Movie
+tt0190332|Crouching Tiger, Hidden Dragon|2000|movie|120|7.8|249833|Action;Adventure;Fantasy|Movie
+tt4044364|Citizenfour|2014|movie|114|8.0|51400|Biography;Documentary;Thriller|Movie
+tt3203606|Trumbo|2015|movie|124|7.5|74850|Biography;Drama|Movie
+tt1433811|Disconnect|2012|movie|115|7.5|72381|Drama;Thriller|Movie
+tt7421814|Snowed-Inn Christmas|2017|tvMovie|86|7.3|1807|Comedy;Romance|Movie
+tt0352410|Hornblower: Duty|2003|tvMovie|96|8.0|2864|Adventure;Drama;War|Movie
+tt1343092|The Great Gatsby|2013|movie|143|7.2|467337|Drama;Romance|Movie
+tt1462758|Buried|2010|movie|95|7.0|147482|Drama;Mystery;Thriller|Movie
+tt1213641|First Man|2018|movie|141|7.3|160176|Biography;Drama;History|Movie
+tt1951264|The Hunger Games: Catching Fire|2013|movie|146|7.5|603679|Action;Adventure;Mystery|Movie
+tt1489887|Booksmart|2019|movie|102|7.2|85577|Comedy|Movie
+tt4633694|Spider-Man: Into the Spider-Verse|2018|movie|117|8.4|337759|Action;Adventure;Animation|Movie
+tt2076781|6 Days to Air: The Making of South Park|2011|tvMovie|42|7.7|2224|Comedy;Documentary|Movie
+tt3829920|Only the Brave|2017|movie|134|7.6|55241|Action;Biography;Drama|Movie
+tt4972582|Split|2016|movie|117|7.3|409172|Horror;Thriller|Movie
+tt0364517|Love Me If You Dare|2003|movie|93|7.6|66504|Comedy;Drama;Romance|Movie
+tt2082197|Barfi!|2012|movie|151|8.1|74172|Comedy;Drama;Romance|Movie
+tt0898367|The Road|2009|movie|111|7.2|219944|Drama|Movie
+tt0256009|The Devil's Backbone|2001|movie|106|7.4|60649|Drama;Horror|Movie
+tt3967856|Okja|2017|movie|120|7.3|99753|Action;Adventure;Drama|Movie
+tt0475296|Hiroshima|2005|tvMovie|90|7.8|1720|Documentary;Drama;History|Movie
+tt5649144|The Florida Project|2017|movie|111|7.6|90384|Drama|Movie
+tt2015381|Guardians of the Galaxy|2014|movie|121|8.0|1024649|Action;Adventure;Comedy|Movie
+tt2179116|The Kings of Summer|2013|movie|95|7.1|76704|Adventure;Comedy;Drama|Movie
+tt0765458|Terry Pratchett's Hogfather|2006|tvMovie|189|7.5|9447|Adventure;Fantasy;Thriller|Movie
+tt4943998|Deadwood: The Movie|2019|tvMovie|110|7.4|17913|Drama;Western|Movie
+tt1560779|The Good Witch's Gift|2010|tvMovie|83|7.3|1748|Drama;Family;Fantasy|Movie
+tt3281548|Little Women|2019|movie|135|7.8|123833|Drama;Romance|Movie
+tt2820852|Furious 7|2015|movie|137|7.1|353942|Action;Adventure;Thriller|Movie
+tt0209144|Memento|2000|movie|113|8.4|1101283|Mystery;Thriller|Movie
+tt4698684|Hunt for the Wilderpeople|2016|movie|101|7.9|104976|Adventure;Comedy;Drama|Movie
+tt0240772|Ocean's Eleven|2001|movie|116|7.7|505133|Crime;Thriller|Movie
+tt0277027|I Am Sam|2001|movie|132|7.7|141274|Drama|Movie
+tt2543164|Arrival|2016|movie|116|7.9|577113|Drama;Mystery;Sci-Fi|Movie
+tt1614989|Hodejegerne|2011|movie|96|7.5|95317|Action;Crime;Thriller|Movie
+tt2370248|Short Term 12|2013|movie|96|8.0|79886|Drama|Movie
+tt1549572|Another Earth|2011|movie|92|7.0|89772|Drama;Romance;Sci-Fi|Movie
+tt0308644|Finding Neverland|2004|movie|106|7.7|196495|Biography;Drama;Family|Movie
+tt3183660|Fantastic Beasts and Where to Find Them|2016|movie|132|7.3|399252|Adventure;Family;Fantasy|Movie
+tt1125194|Legally Blonde: The Musical|2007|tvMovie|185|8.2|1325|Musical|Movie
+tt0878804|The Blind Side|2009|movie|129|7.6|286530|Biography;Drama;Sport|Movie
+tt0296042|Koroshiya 1|2001|movie|129|7.0|51475|Action;Comedy;Crime|Movie
+tt0376541|Closer|2004|movie|104|7.2|200017|Drama;Romance|Movie
+tt0462499|Rambo|2008|movie|92|7.0|215384|Action;Thriller|Movie
+tt1205489|Gran Torino|2008|movie|116|8.1|708053|Drama|Movie
+tt1117385|Felon|2008|movie|104|7.4|74402|Crime;Drama|Movie
+tt0446029|Scott Pilgrim vs. the World|2010|movie|112|7.5|369633|Action;Comedy;Fantasy|Movie
+tt1355631|The Infiltrator|2016|movie|127|7.0|66540|Biography;Crime;Drama|Movie
+tt1935179|Mud|2012|movie|130|7.4|164950|Drama|Movie
+tt2005151|War Dogs|2016|movie|114|7.1|172575|Biography;Comedy;Crime|Movie
+tt0361596|Fahrenheit 9/11|2004|movie|122|7.5|125532|Documentary;Drama;War|Movie
+tt0499516|Look, Up in the Sky! The Amazing Story of Superman|2006|tvMovie|115|7.9|1165|Documentary;History|Movie
+tt2170593|St. Vincent|2014|movie|102|7.2|94478|Comedy;Drama|Movie
+tt3606756|Incredibles 2|2018|movie|118|7.6|240161|Action;Adventure;Animation|Movie
+tt0842926|The Kids Are All Right|2010|movie|106|7.0|124457|Comedy;Drama;Romance|Movie
+tt3850214|Dope|2015|movie|103|7.2|79878|Comedy;Crime;Drama|Movie
+tt0473434|49 Up|2005|tvMovie|180|8.2|2599|Biography;Documentary|Movie
+tt0315733|21 Grams|2003|movie|124|7.7|221532|Crime;Drama;Thriller|Movie
+tt1355644|Passengers|2016|movie|116|7.0|341088|Drama;Romance;Sci-Fi|Movie
+tt0120630|Chicken Run|2000|movie|84|7.0|174216|Adventure;Animation;Comedy|Movie
+tt0319754|The Lion in Winter|2003|tvMovie|167|7.1|2081|Drama;History;Romance|Movie
+tt7133092|Spielberg|2017|tvMovie|147|7.7|5831|Biography;Documentary|Movie
+tt0451094|Lady Vengeance|2005|movie|115|7.6|70349|Crime;Drama;Thriller|Movie
+tt1083452|Eddie the Eagle|2015|movie|106|7.4|82967|Biography;Comedy;Drama|Movie
+tt1535109|Captain Phillips|2013|movie|134|7.8|412835|Adventure;Biography;Crime|Movie
+tt0462322|Grindhouse|2007|movie|191|7.5|176366|Action;Horror;Thriller|Movie
+tt2241676|Restless|2012|tvMovie|180|7.1|2835|Drama;Romance|Movie
+tt0208092|Snatch|2000|movie|104|8.3|767587|Comedy;Crime|Movie
+tt5012394|Maigret Sets a Trap|2016|tvMovie|87|7.1|8249|Crime;Drama;Mystery|Movie
+tt0964517|The Fighter|2010|movie|116|7.8|334566|Biography;Drama;Sport|Movie
+tt4971344|The Sisters Brothers|2018|movie|122|7.0|50096|Crime;Drama;Western|Movie
+tt1172049|Demolition|2015|movie|101|7.0|86573|Action;Comedy;Drama|Movie
+tt0236285|For Love or Country: The Arturo Sandoval Story|2000|tvMovie|120|7.3|1093|Biography;Drama;Music|Movie
+tt1064884|Jesse Stone: Thin Ice|2009|tvMovie|88|7.2|3065|Crime;Drama;Mystery|Movie
+tt0243664|Wit|2001|tvMovie|99|8.0|8716|Drama|Movie
+tt1860357|Deepwater Horizon|2016|movie|107|7.1|147278|Action;Drama;History|Movie
+tt2235348|Second Chances|2013|tvMovie|84|7.1|1445|Drama;Romance|Movie
+tt1057500|Invictus|2009|movie|134|7.3|147827|Biography;Drama;History|Movie
+tt0453446|Alien Planet|2005|tvMovie|94|7.3|1431|Adventure;Animation;Documentary|Movie
+tt0301357|Good Bye Lenin!|2003|movie|121|7.7|135849|Comedy;Drama;Romance|Movie
+tt0988047|Traitor|2008|movie|114|7.0|55016|Action;Crime;Drama|Movie
+tt4954522|Raw|2016|movie|99|7.0|58129|Drama;Fantasy;Horror|Movie
+tt0756683|The Man from Earth|2007|movie|87|7.9|170970|Drama;Fantasy;Sci-Fi|Movie
+tt5362352|DC's Legends of Tomorrow: Their Time Is Now|2016|tvMovie|22|7.1|4377|Action;Documentary;Sci-Fi|Movie
+tt1250777|Kick-Ass|2010|movie|117|7.6|518179|Action;Comedy;Crime|Movie
+tt6966692|Green Book|2018|movie|130|8.2|343911|Biography;Comedy;Drama|Movie
+tt2245084|Big Hero 6|2014|movie|102|7.8|401554|Action;Adventure;Animation|Movie
+tt2584384|Jojo Rabbit|2019|movie|108|7.9|257671|Comedy;Drama;War|Movie
+tt0412019|Broken Flowers|2005|movie|106|7.2|96972|Comedy;Drama;Mystery|Movie
+tt0337978|Live Free or Die Hard|2007|movie|128|7.1|384355|Action;Thriller|Movie
+tt0363163|Downfall|2004|movie|156|8.2|325145|Biography;Drama;History|Movie
+tt1197624|Law Abiding Citizen|2009|movie|109|7.4|267114|Action;Crime;Drama|Movie
+tt1450321|Filth|2013|movie|97|7.1|99604|Comedy;Crime;Drama|Movie
+tt2660888|Star Trek Beyond|2016|movie|122|7.1|223564|Action;Adventure;Sci-Fi|Movie
+tt0311113|Master and Commander: The Far Side of the World|2003|movie|138|7.4|198704|Action;Adventure;Drama|Movie
+tt0162222|Cast Away|2000|movie|143|7.8|511619|Adventure;Drama;Romance|Movie
+tt0480669|Timecrimes|2007|movie|92|7.2|56847|Horror;Mystery;Sci-Fi|Movie
+tt5727208|Uncut Gems|2019|movie|135|7.4|200753|Crime;Drama;Thriller|Movie
+tt1289406|Harry Brown|2009|movie|103|7.2|83416|Action;Crime;Drama|Movie
+tt1398426|Straight Outta Compton|2015|movie|147|7.8|176390|Biography;Drama;History|Movie
+tt1132620|The Girl with the Dragon Tattoo|2009|movie|152|7.8|206265|Crime;Drama;Mystery|Movie
+tt1874757|The Good Witch's Family|2011|tvMovie|83|7.1|1507|Drama;Family;Fantasy|Movie
+tt1954470|Gangs of Wasseypur|2012|movie|321|8.2|78818|Action;Crime;Drama|Movie
+tt0398286|Tangled|2010|movie|100|7.7|396733|Adventure;Animation;Comedy|Movie
+tt1130884|Shutter Island|2010|movie|138|8.2|1098366|Mystery;Thriller|Movie
+tt0401445|A Good Year|2006|movie|117|7.0|87085|Comedy;Drama;Romance|Movie
+tt0245712|Amores Perros|2000|movie|154|8.1|219566|Drama;Thriller|Movie
+tt0289652|Living with the Dead|2002|tvMovie|142|7.1|1182|Crime;Drama;Mystery|Movie
+tt0824747|Changeling|2008|movie|141|7.7|234203|Biography;Crime;Drama|Movie
+tt1343727|Dredd|2012|movie|95|7.1|246629|Action;Crime;Sci-Fi|Movie
+tt1655442|The Artist|2011|movie|100|7.9|227567|Comedy;Drama;Romance|Movie
+tt3890160|Baby Driver|2017|movie|113|7.6|423712|Action;Crime;Drama|Movie
+tt0270288|Confessions of a Dangerous Mind|2002|movie|113|7.0|82327|Biography;Comedy;Crime|Movie
+tt1291584|Warrior|2011|movie|140|8.2|428175|Action;Drama;Sport|Movie
+tt4729430|Klaus|2019|movie|96|8.2|75457|Adventure;Animation;Comedy|Movie
+tt0425210|Lucky Number Slevin|2006|movie|110|7.7|296989|Crime;Drama;Mystery|Movie
+tt0409459|Watchmen|2009|movie|162|7.6|491954|Action;Drama;Mystery|Movie
+tt1263670|Crazy Heart|2009|movie|112|7.2|82993|Drama;Music;Romance|Movie
+tt5606664|Doctor Sleep|2019|movie|152|7.4|124257|Drama;Fantasy;Horror|Movie
+tt1176740|Away We Go|2009|movie|98|7.0|51326|Comedy;Drama;Romance|Movie
+tt0372784|Batman Begins|2005|movie|140|8.2|1280667|Action;Adventure|Movie
+tt0780521|The Princess and the Frog|2009|movie|97|7.1|120893|Adventure;Animation;Comedy|Movie
+tt0423977|Charlie Bartlett|2007|movie|97|7.0|62378|Comedy;Drama;Romance|Movie
+tt0250440|Daria in 'Is It Fall Yet?'|2000|tvMovie|75|8.2|3618|Animation;Comedy|Movie
+tt0250425|Holiday Heart|2000|tvMovie|100|7.6|1107|Drama|Movie
+tt2404425|Woman in Gold|2015|movie|109|7.3|52723|Biography;Drama;History|Movie
+tt0219224|On the Beach|2000|tvMovie|195|7.0|3622|Drama;Sci-Fi|Movie
+tt0790636|Dallas Buyers Club|2013|movie|117|8.0|430901|Biography;Drama|Movie
+tt0404390|Running Scared|2006|movie|122|7.4|96228|Action;Crime;Drama|Movie
+tt1302011|Kung Fu Panda 2|2011|movie|90|7.2|247528|Action;Adventure;Animation|Movie
+tt0299478|Saraband|2003|tvMovie|107|7.6|7055|Drama;Music|Movie
+tt0352248|Cinderella Man|2005|movie|144|8.0|173669|Biography;Drama;History|Movie
+tt2980516|The Theory of Everything|2014|movie|123|7.7|392064|Biography;Drama;Romance|Movie
+tt2713180|Fury|2014|movie|134|7.6|415927|Action;Drama;War|Movie
+tt0168629|Dancer in the Dark|2000|movie|140|8.0|100213|Crime;Drama;Musical|Movie
+tt1188996|My Name Is Khan|2010|movie|165|8.0|96820|Drama|Movie
+tt4387040|Airlift|2016|movie|130|8.0|52012|Drama;History|Movie
+tt0397535|Memoirs of a Geisha|2005|movie|145|7.4|136547|Drama;Romance|Movie
+tt5095030|Ant-Man and the Wasp|2018|movie|118|7.1|296435|Action;Adventure;Comedy|Movie
+tt1659337|The Perks of Being a Wallflower|2012|movie|103|8.0|452404|Drama;Romance|Movie
+tt0200465|The Bank Job|2008|movie|111|7.2|171480|Crime;Thriller|Movie
+tt0800039|Forgetting Sarah Marshall|2008|movie|111|7.1|259576|Comedy;Drama;Romance|Movie
+tt1504320|The King's Speech|2010|movie|118|8.0|629005|Biography;Drama;History|Movie
+tt2355762|Christmas with Holly|2012|tvMovie|88|7.0|2788|Drama;Family|Movie
+tt1385826|The Adjustment Bureau|2011|movie|106|7.0|240480|Romance;Sci-Fi;Thriller|Movie
+tt5651050|Bright Lights|2016|tvMovie|95|8.0|3104|Documentary|Movie
+tt7784604|Hereditary|2018|movie|127|7.3|222663|Drama;Horror;Mystery|Movie
+tt0433035|Real Steel|2011|movie|127|7.1|293482|Action;Drama;Sci-Fi|Movie
+tt0815241|Religulous|2008|movie|101|7.6|57032|Comedy;Documentary;War|Movie
+tt0272338|Punch-Drunk Love|2002|movie|95|7.3|144518|Comedy;Drama;Romance|Movie
+tt1306980|50/50|2011|movie|100|7.6|312229|Comedy;Drama;Romance|Movie
+tt6266538|Vice|2018|movie|132|7.2|113793|Biography;Comedy;Drama|Movie
+tt1300854|Iron Man 3|2013|movie|130|7.2|740795|Action;Adventure;Sci-Fi|Movie
+tt1051906|The Invisible Man|2020|movie|124|7.1|131606|Horror;Mystery;Sci-Fi|Movie
+tt5052474|Sicario: Day of the Soldado|2018|movie|122|7.1|120289|Action;Adventure;Crime|Movie
+tt9185816|Woodstock|2019|tvMovie|106|7.6|1292|Documentary;History|Movie
+tt0315983|House of Sand and Fog|2003|movie|126|7.5|64371|Crime;Drama|Movie
+tt1895587|Spotlight|2015|movie|129|8.1|407767|Biography;Crime;Drama|Movie
+tt0453562|42|2013|movie|128|7.5|84325|Biography;Drama;Sport|Movie
+tt1334260|Never Let Me Go|2010|movie|103|7.1|135554|Drama;Romance;Sci-Fi|Movie
+tt2726560|The Longest Ride|2015|movie|123|7.1|75201|Drama;Romance|Movie
+tt1228987|Let Me In|2010|movie|116|7.1|112172|Drama;Fantasy;Horror|Movie
+tt7349662|BlacKkKlansman|2018|movie|135|7.5|208534|Biography;Crime;Drama|Movie
+tt7131622|Once Upon a Time... In Hollywood|2019|movie|161|7.6|510725|Comedy;Drama|Movie
+tt2380307|Coco|2017|movie|105|8.4|354066|Adventure;Animation;Family|Movie
+tt1623288|ParaNorman|2012|movie|92|7.0|92073|Adventure;Animation;Comedy|Movie
+tt4425200|John Wick: Chapter 2|2017|movie|122|7.5|352983|Action;Crime;Thriller|Movie
+tt0372588|Team America: World Police|2004|movie|98|7.2|157695|Action;Comedy|Movie
+tt0816671|Teen Titans: Trouble in Tokyo|2006|tvMovie|75|7.2|4265|Action;Adventure;Animation|Movie
+tt3011894|Wild Tales|2014|movie|122|8.1|170973|Comedy;Drama;Thriller|Movie
+tt7401588|Instant Family|2018|movie|118|7.3|77388|Comedy;Drama|Movie
+tt1568346|The Girl with the Dragon Tattoo|2011|movie|158|7.8|412389|Crime;Drama;Mystery|Movie
+tt0382932|Ratatouille|2007|movie|111|8.0|625735|Adventure;Animation;Comedy|Movie
+tt2488496|Star Wars: Episode VII - The Force Awakens|2015|movie|138|7.9|845931|Action;Adventure;Sci-Fi|Movie
+tt0401383|The Diving Bell and the Butterfly|2007|movie|112|8.0|102146|Biography;Drama|Movie
+tt3298820|Metalocalypse: The Doomstar Requiem - A Klok Opera|2013|tvMovie|60|8.1|1285|Animation;Comedy;Music|Movie
+tt0816711|World War Z|2013|movie|116|7.0|590897|Action;Adventure;Horror|Movie
+tt1386932|Ip Man 2|2010|movie|108|7.5|95748|Action;Biography;Drama|Movie
+tt0289879|The Butterfly Effect|2004|movie|113|7.6|444792|Drama;Sci-Fi;Thriller|Movie
+tt1527788|The Man from Nowhere|2010|movie|119|7.8|61098|Action;Crime;Drama|Movie
+tt1568911|War Horse|2011|movie|146|7.2|144468|Action;Adventure;Drama|Movie
+tt3539986|Mushishi Tokubetsu-hen: Hihamukage|2014|tvMovie|44|8.7|1117|Animation;Drama;Fantasy|Movie
+tt0307901|25th Hour|2002|movie|135|7.6|167998|Drama|Movie
+tt1560747|The Master|2012|movie|138|7.2|150633|Drama|Movie
+tt1708658|November Christmas|2010|tvMovie|96|7.6|1505|Drama|Movie
+tt1190539|The Chaser|2008|movie|125|7.8|56411|Action;Crime;Thriller|Movie
+tt3386954|The Gabby Douglas Story|2014|tvMovie|86|7.0|1603|Biography;Drama;Sport|Movie
+tt2096673|Inside Out|2015|movie|95|8.1|593878|Adventure;Animation;Comedy|Movie
+tt0387564|Saw|2004|movie|103|7.6|372423|Horror;Mystery|Movie
+tt2582782|Hell or High Water|2016|movie|102|7.6|198725|Action;Crime;Drama|Movie
+tt0319758|Live from Baghdad|2002|tvMovie|108|7.3|4380|Drama;War|Movie
+tt0309150|DreamKeeper|2003|tvMovie|174|7.6|1438|Drama;Fantasy|Movie
+tt4302938|Kubo and the Two Strings|2016|movie|101|7.8|115293|Action;Adventure;Animation|Movie
+tt0416508|Becoming Jane|2007|movie|120|7.0|57387|Biography;Drama;Romance|Movie
+tt0327056|Mystic River|2003|movie|138|7.9|411921|Crime;Drama;Mystery|Movie
+tt0440963|The Bourne Ultimatum|2007|movie|115|8.0|598044|Action;Mystery;Thriller|Movie
+tt1242422|Cell 211|2009|movie|113|7.6|62961|Action;Adventure;Crime|Movie
+tt0379725|Capote|2005|movie|114|7.3|123459|Biography;Crime;Drama|Movie
+tt2494362|Bone Tomahawk|2015|movie|132|7.1|82669|Drama;Horror;Western|Movie
+tt4034228|Manchester by the Sea|2016|movie|137|7.8|238959|Drama|Movie
+tt0375063|Sideways|2004|movie|127|7.5|177222|Comedy;Drama;Romance|Movie
+tt0241303|Chocolat|2000|movie|121|7.2|175450|Drama;Romance|Movie
+tt1809398|Unbroken|2014|movie|137|7.2|143890|Action;Biography;Drama|Movie
+tt0871510|Chak De! India|2007|movie|153|8.2|72462|Drama;Family;Sport|Movie
+tt0395571|Hawking|2004|tvMovie|90|7.5|5602|Biography;Drama|Movie
+tt0405508|Rang De Basanti|2006|movie|167|8.2|109223|Comedy;Drama|Movie
+tt3521164|Moana|2016|movie|107|7.6|261744|Adventure;Animation;Comedy|Movie
+tt0275491|Bad Education|2004|movie|106|7.4|54742|Crime;Drama|Movie
+tt2674426|Me Before You|2016|movie|106|7.4|200673|Drama;Romance|Movie
+tt1403865|True Grit|2010|movie|110|7.6|305541|Drama;Western|Movie
+tt1798684|Southpaw|2015|movie|124|7.4|213501|Action;Drama;Sport|Movie
+tt1146431|Ben 10: Secret of the Omnitrix|2007|tvMovie|71|7.1|1754|Action;Adventure;Animation|Movie
+tt0445922|Across the Universe|2007|movie|133|7.3|105120|Drama;Fantasy;History|Movie
+tt7286456|Joker|2019|movie|122|8.5|862564|Crime;Drama;Thriller|Movie
+tt0162346|Ghost World|2001|movie|111|7.3|111743|Comedy;Drama|Movie
+tt3848892|Baby|2015|movie|159|8.0|51848|Action;Thriller|Movie
+tt2911666|John Wick|2014|movie|101|7.4|521552|Action;Crime;Thriller|Movie
+tt0327597|Coraline|2009|movie|100|7.7|191209|Animation;Drama;Family|Movie
+tt0936501|Taken|2008|movie|90|7.8|558453|Action;Thriller|Movie
+tt0790724|Jack Reacher|2012|movie|130|7.0|302402|Action;Thriller|Movie
+tt0338751|The Aviator|2004|movie|170|7.5|327481|Biography;Drama|Movie
+tt0861739|Elite Squad|2007|movie|115|8.1|96592|Action;Crime;Drama|Movie
+tt0918927|Doubt|2008|movie|104|7.5|119954|Drama;Mystery|Movie
+tt0444518|A Love to Hide|2005|tvMovie|103|8.1|2868|Drama;Romance;War|Movie
+tt1403981|Remember Me|2010|movie|113|7.1|135894|Drama;Romance|Movie
+tt0780536|In Bruges|2008|movie|107|7.9|384154|Comedy;Crime;Drama|Movie
+tt1278469|Temple Grandin|2010|tvMovie|107|8.3|26940|Biography;Drama|Movie
+tt1510938|The Sunset Limited|2011|tvMovie|91|7.4|27893|Drama|Movie
+tt5848272|Ralph Breaks the Internet|2018|movie|112|7.1|124799|Adventure;Animation;Comedy|Movie
+tt3889642|The Nine Lives of Christmas|2014|tvMovie|86|7.2|2888|Comedy;Drama;Romance|Movie
+tt0463998|Freedom Writers|2007|movie|123|7.5|67736|Biography;Crime;Drama|Movie
+tt0408306|Munich|2005|movie|164|7.5|208840|Action;Drama;History|Movie
+tt4555426|Darkest Hour|2017|movie|125|7.4|166286|Biography;Drama;History|Movie
+tt3170832|Room|2015|movie|118|8.1|358499|Drama;Thriller|Movie
+tt0365376|A Tale of Two Sisters|2003|movie|114|7.2|54985|Drama;Horror;Mystery|Movie
+tt0986264|Like Stars on Earth|2007|movie|165|8.4|162341|Drama;Family|Movie
+tt1605783|Midnight in Paris|2011|movie|96|7.7|380697|Comedy;Fantasy;Romance|Movie
+tt1453405|Monsters University|2013|movie|104|7.3|314464|Adventure;Animation;Comedy|Movie
+tt5083738|The Favourite|2018|movie|119|7.5|164408|Biography;Comedy;Drama|Movie
+tt1817273|The Place Beyond the Pines|2012|movie|140|7.3|241553|Crime;Drama;Thriller|Movie
+tt0765443|Eastern Promises|2007|movie|100|7.6|224126|Action;Crime;Drama|Movie
+tt1642627|Louis Theroux: America's Medicated Kids|2010|tvMovie|58|7.4|1326|Documentary|Movie
+tt4925292|Lady Bird|2017|movie|94|7.4|229754|Comedy;Drama|Movie
+tt1436045|13 Assassins|2010|movie|141|7.6|61019|Action;Adventure;Drama|Movie
+tt0371746|Iron Man|2008|movie|126|7.9|921925|Action;Adventure;Sci-Fi|Movie
+tt5733210|Terra|2015|tvMovie|98|8.4|1801|Documentary|Movie
+tt2361509|The Intern|2015|movie|121|7.1|213585|Comedy;Drama|Movie
+tt1899353|The Raid: Redemption|2011|movie|101|7.6|187420|Action;Thriller|Movie
+tt0347149|Howl's Moving Castle|2004|movie|119|8.2|320178|Adventure;Animation;Family|Movie
+tt0368909|Ong-Bak: The Thai Warrior|2003|movie|108|7.2|70286|Action;Crime;Thriller|Movie
+tt0358273|Walk the Line|2005|movie|136|7.8|229839|Biography;Drama;Music|Movie
+tt7959026|The Mule|2018|movie|116|7.0|101602|Crime;Drama;Thriller|Movie
+tt1379182|Dogtooth|2009|movie|97|7.3|79855|Drama;Thriller|Movie
+tt4718770|The Wiz Live!|2015|tvMovie|111|7.1|2251|Adventure;Family;Fantasy|Movie
+tt0329575|Seabiscuit|2003|movie|140|7.3|66035|Drama;History;Sport|Movie
+tt0298130|The Ring|2002|movie|115|7.1|315436|Horror;Mystery|Movie
+tt2294449|22 Jump Street|2014|movie|112|7.0|339672|Action;Comedy;Crime|Movie
+tt0366627|The Jacket|2005|movie|103|7.1|107398|Drama;Fantasy;Mystery|Movie
+tt1832382|A Separation|2011|movie|123|8.3|214524|Drama|Movie
+tt0926084|Harry Potter and the Deathly Hallows: Part 1|2010|movie|146|7.7|463964|Adventure;Family;Fantasy|Movie
+tt3345310|David Blaine: Real or Magic|2013|tvMovie|90|7.6|1371|Documentary;Mystery|Movie
+tt3481232|And the Oscar Goes To...|2014|tvMovie|87|7.1|1359|Documentary;History|Movie
+tt1078588|My Sister's Keeper|2009|movie|109|7.4|88288|Drama;Family|Movie
+tt0404364|Reefer Madness: The Movie Musical|2005|tvMovie|112|7.1|6069|Comedy;Drama;Horror|Movie
+tt1189345|The World According to Monsanto|2008|tvMovie|108|8.0|1732|Documentary|Movie
+tt0805540|Hajime no ippo - Champion road|2003|tvMovie|90|8.3|1128|Action;Animation;Comedy|Movie
+tt4276820|The Founder|2016|movie|115|7.2|118186|Biography;Drama|Movie
+tt5462602|The Big Sick|2017|movie|120|7.5|117784|Comedy;Drama;Romance|Movie
+tt0364569|Oldboy|2003|movie|120|8.4|502060|Action;Drama;Mystery|Movie
+tt1126514|Louis Theroux: Under the Knife|2007|tvMovie|60|7.3|1366|Documentary|Movie
+tt1170358|The Hobbit: The Desolation of Smaug|2013|movie|161|7.8|591397|Adventure;Fantasy|Movie
+tt0421082|Control|2007|movie|122|7.7|60728|Biography;Drama;Music|Movie
+tt0254686|The Piano Teacher|2001|movie|131|7.5|54715|Drama|Movie
+tt0456554|Grandma's Boy|2006|movie|94|7.0|76709|Comedy|Movie
+tt0325710|The Last Samurai|2003|movie|154|7.7|392767|Action;Drama;War|Movie
+tt1651062|Christopher and His Kind|2011|tvMovie|90|7.0|3953|Biography;Drama;Romance|Movie
+tt4552118|Looking|2016|tvMovie|85|7.5|7096|Comedy;Drama|Movie
+tt0211915|Amélie|2001|movie|122|8.3|691357|Comedy;Romance|Movie
+tt0397313|Eight Below|2006|movie|120|7.3|59954|Adventure;Drama;Family|Movie
+tt1220719|Ip Man|2008|movie|106|8.0|208279|Action;Biography;Drama|Movie
+tt4430212|Drishyam|2015|movie|163|8.2|66327|Crime;Drama;Mystery|Movie
+tt1855199|End of Watch|2012|movie|109|7.6|224734|Action;Crime;Drama|Movie
+tt0375679|Crash|2004|movie|112|7.7|415465|Crime;Drama;Thriller|Movie
+tt1439572|Perfect Sense|2011|movie|92|7.1|55100|Drama;Romance;Sci-Fi|Movie
+tt8075192|Shoplifters|2018|movie|121|8.0|57056|Crime;Drama|Movie
+tt0217869|Unbreakable|2000|movie|106|7.3|380545|Drama;Mystery;Sci-Fi|Movie
+tt0441909|Volver|2006|movie|121|7.6|93230|Comedy;Drama|Movie
+tt2356180|Bhaag Milkha Bhaag|2013|movie|186|8.2|59678|Biography;Drama;Sport|Movie
+tt0349166|Supernatural|2005|tvMovie|100|8.4|2030|Action;Adventure;Drama|Movie
+tt0221027|Blow|2001|movie|124|7.6|236881|Biography;Crime;Drama|Movie
+tt1060277|Cloverfield|2008|movie|85|7.0|368011|Action;Adventure;Horror|Movie
+tt0800095|Jesse Stone: Death in Paradise|2006|tvMovie|87|7.2|3775|Crime;Drama|Movie
+tt1632679|Painted with Words|2010|tvMovie|80|8.0|2092|Biography;Documentary|Movie
+tt0446059|Fearless|2006|movie|104|7.6|72120|Action;Biography;Drama|Movie
+tt5074352|Dangal|2016|movie|161|8.4|148466|Action;Biography;Drama|Movie
+tt0463854|28 Weeks Later|2007|movie|100|7.0|255071|Action;Horror;Sci-Fi|Movie
+tt0317740|The Italian Job|2003|movie|111|7.0|337852|Action;Crime;Thriller|Movie
+tt0468489|Half Nelson|2006|movie|106|7.2|83364|Drama|Movie
+tt1242460|We Need to Talk About Kevin|2011|movie|112|7.5|134607|Drama;Mystery;Thriller|Movie
+tt3464902|The Lobster|2015|movie|119|7.2|210723|Comedy;Drama;Romance|Movie
+tt9103602|A Veteran's Christmas|2018|tvMovie|84|7.1|1169|Romance|Movie
+tt9315418|Free Rein: The Twelve Neighs of Christmas|2018|tvMovie|56|7.5|1017|Adventure;Comedy;Drama|Movie
+tt3741834|Lion|2016|movie|118|8.0|207222|Biography;Drama|Movie
+tt2277860|Finding Dory|2016|movie|97|7.3|234069|Adventure;Animation;Comedy|Movie
+tt1706620|Snowpiercer|2013|movie|126|7.1|308271|Action;Drama;Sci-Fi|Movie
+tt5726616|Call Me by Your Name|2017|movie|132|7.9|200182|Drama;Romance|Movie
+tt0277434|We Were Soldiers|2002|movie|138|7.2|128036|Action;Drama;History|Movie
+tt2718492|Ida|2013|movie|82|7.4|51760|Drama|Movie
+tt3774114|Snowden|2016|movie|134|7.3|132406|Biography;Crime;Drama|Movie
+tt1655441|The Age of Adaline|2015|movie|112|7.2|150898|Drama;Fantasy;Romance|Movie
+tt2400894|Skydancers|2014|tvMovie|50|8.7|1334|Documentary|Movie
+tt2371381|Louis Theroux: Extreme Love - Autism|2012|tvMovie|58|7.7|1236|Documentary|Movie
+tt1907668|Flight|2012|movie|138|7.3|320324|Drama;Thriller|Movie
+tt0441773|Kung Fu Panda|2008|movie|92|7.5|410210|Action;Adventure;Animation|Movie
+tt1821480|Kahaani|2012|movie|122|8.1|56560|Mystery;Thriller|Movie
+tt6131636|The Irresistible Blueberry Farm|2016|tvMovie|105|7.0|1001|Drama;Romance|Movie
+tt4074772|A Very Special Supernatural Special|2014|tvMovie|42|8.9|1299|Documentary|Movie
+tt0851578|Paprika|2006|movie|90|7.7|68791|Animation;Drama;Fantasy|Movie
+tt6868216|Psych: The Movie|2017|tvMovie|88|7.5|8477|Comedy;Crime;Mystery|Movie
+tt8613070|Portrait of a Lady on Fire|2019|movie|122|8.1|50971|Drama;Romance|Movie
+tt3318220|Boys|2014|tvMovie|78|7.4|12086|Drama;Romance|Movie
+tt3169706|Pride|2014|movie|119|7.8|50720|Biography;Comedy;Drama|Movie
+tt0120917|The Emperor's New Groove|2000|movie|78|7.3|175564|Adventure;Animation;Comedy|Movie
+tt2431286|Philomena|2013|movie|98|7.6|92892|Biography;Comedy;Drama|Movie
+tt2719848|Everest|2015|movie|121|7.1|193264|Action;Adventure;Biography|Movie
+tt0375662|Cloaca|2003|tvMovie|108|7.5|1685|Comedy;Drama|Movie
+tt0416320|Match Point|2005|movie|124|7.6|203195|Drama;Romance;Thriller|Movie
+tt0361862|The Machinist|2004|movie|101|7.7|351589|Drama;Thriller|Movie
+tt0340855|Monster|2003|movie|109|7.3|133459|Biography;Crime;Drama|Movie
+tt0181875|Almost Famous|2000|movie|122|7.9|247984|Adventure;Comedy;Drama|Movie
+tt4172430|13 Hours|2016|movie|144|7.3|115259|Action;Drama;War|Movie
+tt6146586|John Wick: Chapter 3 - Parabellum|2019|movie|130|7.5|259302|Action;Crime;Thriller|Movie
+tt1024648|Argo|2012|movie|120|7.7|563782|Biography;Drama;Thriller|Movie
+tt0884328|The Mist|2007|movie|126|7.1|276283|Horror;Sci-Fi;Thriller|Movie
+tt12078990|Money Heist: The Phenomenon|2020|tvMovie|57|7.5|1877|Documentary|Movie
+tt0257850|The Laramie Project|2002|tvMovie|97|7.1|6132|Crime;Drama;History|Movie
+tt0914863|Unthinkable|2010|movie|97|7.1|83053|Crime;Drama;Thriller|Movie
+tt0905345|Jesse Stone: Sea Change|2007|tvMovie|88|7.2|3287|Crime;Drama|Movie
+tt0393162|Coach Carter|2005|movie|136|7.3|124145|Biography;Drama;Sport|Movie
+tt0268380|Ice Age|2002|movie|81|7.5|432061|Adventure;Animation;Comedy|Movie
+tt0399295|Lord of War|2005|movie|122|7.6|290208|Action;Crime;Drama|Movie
+tt0366551|Harold & Kumar Go to White Castle|2004|movie|88|7.1|179577|Adventure;Comedy|Movie
+tt0266308|Battle Royale|2000|movie|114|7.6|166628|Action;Adventure;Drama|Movie
+tt1615160|The Foreigner|2017|movie|113|7.0|96503|Action;Thriller|Movie
+tt6155172|Roma|2018|movie|135|7.7|135016|Drama|Movie
+tt1483013|Oblivion|2013|movie|124|7.0|477324|Action;Adventure;Sci-Fi|Movie
+tt1478841|The Buddha|2010|tvMovie|120|7.7|1008|Documentary|Movie
+tt1848902|Game Change|2012|tvMovie|118|7.4|20729|Biography;Drama;History|Movie
+tt0213847|Malena|2000|movie|108|7.5|87984|Comedy;Drama;Romance|Movie
+tt0329390|Monte Walsh|2003|tvMovie|117|7.1|2172|Romance;Western|Movie
+tt0245429|Spirited Away|2001|movie|125|8.6|628408|Adventure;Animation;Family|Movie
+tt1931533|Seven Psychopaths|2012|movie|110|7.2|237104|Comedy;Crime|Movie
+tt0870111|Frost/Nixon|2008|movie|122|7.7|101554|Biography;Drama;History|Movie
+tt1431045|Deadpool|2016|movie|108|8.0|883450|Action;Adventure;Comedy|Movie
+tt1125849|The Wrestler|2008|movie|109|7.9|286474|Drama;Sport|Movie
+tt0267736|The Matthew Shepard Story|2002|tvMovie|88|7.3|1307|Drama|Movie
+tt0362270|The Life Aquatic with Steve Zissou|2004|movie|119|7.3|176002|Action;Adventure;Comedy|Movie
+tt0844794|Northanger Abbey|2007|tvMovie|84|7.3|13500|Drama;Romance|Movie
+tt4160708|Don't Breathe|2016|movie|88|7.1|213341|Crime;Horror;Thriller|Movie
+tt0384116|G.O.R.A.|2004|movie|127|8.0|55235|Adventure;Comedy;Sci-Fi|Movie
+tt2390361|Enough Said|2013|movie|93|7.0|58054|Comedy;Drama;Romance|Movie
+tt2771200|Beauty and the Beast|2017|movie|129|7.1|264867|Family;Fantasy;Musical|Movie
+tt5610554|Tully|2018|movie|95|7.0|50969|Comedy;Drama;Mystery|Movie
+tt1312203|102 Minutes That Changed America|2008|tvMovie|102|8.3|2271|Documentary;History|Movie
+tt1023114|The Way Back|2010|movie|133|7.3|108304|Adventure;Drama;History|Movie
+tt0959337|Revolutionary Road|2008|movie|119|7.3|192412|Drama;Romance|Movie
+tt3791216|All the Way|2016|tvMovie|132|7.3|12729|Biography;Drama;History|Movie
+tt0988045|Sherlock Holmes|2009|movie|128|7.6|574604|Action;Adventure;Mystery|Movie
+tt0345591|Love Comes Softly|2003|tvMovie|84|7.3|5716|Drama;Family;Romance|Movie
+tt5572566|Hidden Kisses|2016|tvMovie|87|7.2|3033|Drama|Movie
+tt0848228|The Avengers|2012|movie|143|8.0|1242495|Action;Adventure;Sci-Fi|Movie
+tt0363589|Elephant|2003|movie|81|7.2|84573|Crime;Drama;Thriller|Movie
+tt2040264|A Very Potter Sequel|2010|tvMovie|213|8.8|1654|Comedy;Musical|Movie
+tt0464141|The Orphanage|2007|movie|105|7.4|144704|Drama;Fantasy;Horror|Movie
+tt0146309|Thirteen Days|2000|movie|145|7.3|53176|Drama;History;Thriller|Movie
+tt5886510|Tour de Pharmacy|2017|tvMovie|39|7.1|9133|Comedy;Sport|Movie
+tt1315216|Jesse Stone: No Remorse|2010|tvMovie|87|7.2|2915|Crime;Drama|Movie
+tt0401504|Ike: Countdown to D-Day|2004|tvMovie|89|7.1|3068|Drama;History;War|Movie
+tt2401878|Anomalisa|2015|movie|90|7.3|64307|Animation;Comedy;Drama|Movie
+tt3040964|The Jungle Book|2016|movie|106|7.4|255248|Adventure;Drama;Family|Movie
+tt0837562|Hotel Transylvania|2012|movie|91|7.1|218884|Animation;Comedy;Family|Movie
+tt1270262|The Devil's Double|2011|movie|109|7.1|59740|Biography;Drama;Thriller|Movie
+tt1699225|Beyond the Blackboard|2011|tvMovie|95|7.7|1979|Drama;Family|Movie
+tt8772262|Midsommar|2019|movie|148|7.1|178151|Drama;Horror;Mystery|Movie
+tt0266987|Spy Game|2001|movie|126|7.1|142786|Action;Crime;Thriller|Movie
+tt5680442|The Verdict|2016|tvMovie|95|7.3|1002|Drama|Movie
+tt0120679|Frida|2002|movie|123|7.4|79818|Biography;Drama;Romance|Movie
+tt0808506|The Girl Who Leapt Through Time|2006|movie|98|7.7|58754|Adventure;Animation;Comedy|Movie
+tt0347048|Head-On|2004|movie|121|7.9|50331|Drama;Romance|Movie
+tt1022603|500 Days of Summer|2009|movie|95|7.7|464977|Comedy;Drama;Romance|Movie
+tt1155592|Man on Wire|2008|movie|94|7.7|51945|Biography;Documentary;History|Movie
+tt1517451|A Star Is Born|2018|movie|136|7.7|319786|Drama;Music;Romance|Movie
+tt3895884|7 Days in Hell|2015|tvMovie|43|7.1|16220|Comedy;Sport|Movie
+tt0374887|Munna Bhai M.B.B.S.|2003|movie|156|8.1|72127|Comedy;Drama;Musical|Movie
+tt1211837|Doctor Strange|2016|movie|115|7.5|579995|Action;Adventure;Fantasy|Movie
+tt0844330|Persuasion|2007|tvMovie|93|7.5|13820|Drama;Romance|Movie
+tt1675434|The Intouchables|2011|movie|112|8.5|738025|Biography;Comedy;Drama|Movie
+tt0381131|The Deal|2003|tvMovie|90|7.0|1268|Biography;Drama|Movie
+tt2273004|The Good Witch's Charm|2012|tvMovie|82|7.1|1328|Drama;Family;Fantasy|Movie
+tt0808417|Persepolis|2007|movie|96|8.0|87123|Animation;Biography;Drama|Movie
+tt1020072|Selma|2014|movie|128|7.5|84387|Biography;Drama;History|Movie
+tt0365748|Shaun of the Dead|2004|movie|99|7.9|502960|Comedy;Horror|Movie
+tt4116284|The Lego Batman Movie|2017|movie|104|7.3|128431|Action;Animation;Comedy|Movie
+tt2692904|Locke|2013|movie|85|7.1|132302|Drama|Movie
+tt0822832|Marley & Me|2008|movie|111|7.1|144344|Comedy;Drama;Family|Movie
+tt0304141|Harry Potter and the Prisoner of Azkaban|2004|movie|142|7.9|534221|Adventure;Family;Fantasy|Movie
+tt1232047|Ed, Edd n Eddy's Big Picture Show|2009|tvMovie|87|8.0|2105|Adventure;Animation;Comedy|Movie
+tt0385700|Fainaru fantajî sebun adobento chirudoren|2005|movie|101|7.2|54669|Action;Adventure;Animation|Movie
+tt0400063|Sometimes in April|2005|tvMovie|140|7.9|4967|Drama;History;War|Movie
+tt0367089|The Squid and the Whale|2005|movie|81|7.3|76833|Comedy;Drama|Movie
+tt1670345|Now You See Me|2013|movie|115|7.3|585844|Crime;Mystery;Thriller|Movie
+tt1587310|Maleficent|2014|movie|97|7.0|337162|Action;Adventure;Family|Movie
+tt5580390|The Shape of Water|2017|movie|123|7.3|358379|Adventure;Drama;Fantasy|Movie
+tt5561592|Louis Theroux: Drinking to Oblivion|2016|tvMovie|59|7.7|1012|Documentary|Movie
+tt2084970|The Imitation Game|2014|movie|114|8.0|669209|Biography;Drama;Thriller|Movie
+tt1345836|The Dark Knight Rises|2012|movie|164|8.4|1483458|Action;Adventure|Movie
+tt6320628|Spider-Man: Far from Home|2019|movie|129|7.5|306039|Action;Adventure;Sci-Fi|Movie
+tt1092058|The Enemies of Reason|2007|tvMovie|90|8.3|1736|Documentary|Movie
+tt4178092|The Gift|2015|movie|108|7.0|136129|Drama;Mystery;Thriller|Movie
+tt1193138|Up in the Air|2009|movie|109|7.4|314549|Comedy;Drama;Romance|Movie
+tt0804497|It's Kind of a Funny Story|2010|movie|101|7.1|132703|Comedy;Drama;Romance|Movie
+tt5311514|Your Name.|2016|movie|106|8.4|179604|Animation;Drama;Fantasy|Movie
+tt6343314|Creed II|2018|movie|130|7.1|99929|Drama;Sport|Movie
+tt0340377|The Station Agent|2003|movie|89|7.6|66640|Comedy;Drama|Movie
+tt5439796|Logan Lucky|2017|movie|118|7.0|125087|Comedy;Crime;Drama|Movie
+tt1408101|Star Trek Into Darkness|2013|movie|132|7.7|458842|Action;Adventure;Sci-Fi|Movie
+tt5813916|The Mountain II|2016|movie|135|8.8|104012|Action;Drama;War|Movie
+tt1109624|Paddington|2014|movie|95|7.2|95188|Adventure;Comedy;Family|Movie
+tt0373889|Harry Potter and the Order of the Phoenix|2007|movie|138|7.5|494957|Action;Adventure;Family|Movie
+tt0266425|Conspiracy|2001|tvMovie|96|7.7|18294|Biography;Drama;History|Movie
+tt0357413|Anchorman: The Legend of Ron Burgundy|2004|movie|94|7.2|325086|Comedy|Movie
+tt0120737|The Lord of the Rings: The Fellowship of the Ring|2001|movie|178|8.8|1622297|Action;Adventure;Drama|Movie
+tt1912398|God Bless America|2011|movie|105|7.2|67467|Comedy;Crime;Drama|Movie
+tt0470752|Ex Machina|2014|movie|108|7.7|463478|Drama;Sci-Fi;Thriller|Movie
+tt0493430|Jackass Number Two|2006|movie|92|7.0|65692|Action;Comedy;Documentary|Movie
+tt4154756|Avengers: Infinity War|2018|movie|149|8.4|799190|Action;Adventure;Sci-Fi|Movie
+tt7146812|Onward|2020|movie|102|7.4|78354|Adventure;Animation;Comedy|Movie
+tt0327137|Secondhand Lions|2003|movie|111|7.5|51537|Comedy;Drama;Family|Movie
+tt4688366|CSI: Immortality|2015|tvMovie|87|7.5|1762|Crime;Drama;Mystery|Movie
+tt1709157|The Lost Valentine|2011|tvMovie|87|7.5|5204|Drama;Romance|Movie
+tt0477139|Wristcutters: A Love Story|2006|movie|88|7.3|53224|Comedy;Drama;Fantasy|Movie
+tt0369339|Collateral|2004|movie|120|7.5|353341|Crime;Drama;Thriller|Movie
+tt1076240|Miss Austen Regrets|2007|tvMovie|90|7.1|3005|Biography;Drama;History|Movie
+tt1132623|You Don't Know Jack|2010|tvMovie|134|7.6|26420|Biography;Drama|Movie
+tt0401997|Breach|2007|movie|110|7.0|57108|Biography;Crime;Drama|Movie
+tt1389137|We Bought a Zoo|2011|movie|124|7.1|132779|Comedy;Drama;Family|Movie
+tt0800369|Thor|2011|movie|115|7.0|732031|Action;Adventure;Fantasy|Movie
+tt0370986|Mysterious Skin|2004|movie|105|7.6|65080|Drama|Movie
+tt1139797|Let the Right One In|2008|movie|114|7.9|202853|Crime;Drama;Fantasy|Movie
+tt0407887|The Departed|2006|movie|151|8.5|1161659|Crime;Drama;Thriller|Movie
+tt2267998|Gone Girl|2014|movie|149|8.1|835226|Drama;Mystery;Thriller|Movie
+tt2443936|Family Guy: 200 Episodes Later|2012|tvMovie|22|7.2|1360|Animation;Documentary|Movie
+tt0289043|28 Days Later...|2002|movie|113|7.6|369933|Action;Drama;Horror|Movie
+tt4364194|The Peanut Butter Falcon|2019|movie|97|7.6|53868|Comedy;Drama|Movie
+tt1392170|The Hunger Games|2012|movie|142|7.2|831353|Action;Adventure;Sci-Fi|Movie
+tt0273657|Horatio Hornblower: Retribution|2001|tvMovie|98|8.3|3291|Adventure;Drama;War|Movie
+tt0443543|The Illusionist|2006|movie|110|7.6|350947|Drama;Fantasy;History|Movie
+tt0245574|Y Tu Mamá También|2001|movie|106|7.6|113836|Drama|Movie
+tt0383574|Pirates of the Caribbean: Dead Man's Chest|2006|movie|151|7.3|644988|Action;Adventure;Fantasy|Movie
+tt1119646|The Hangover|2009|movie|100|7.7|706711|Comedy|Movie
+tt0169102|Lagaan: Once Upon a Time in India|2001|movie|224|8.1|102763|Adventure;Drama;Musical|Movie
+tt0241527|Harry Potter and the Sorcerer's Stone|2001|movie|152|7.6|626449|Adventure;Family;Fantasy|Movie
+tt6412452|The Ballad of Buster Scruggs|2018|movie|133|7.3|115582|Comedy;Drama;Musical|Movie
+tt1029234|Martyrs|2008|movie|99|7.1|80988|Horror|Movie
+tt0421715|The Curious Case of Benjamin Button|2008|movie|166|7.8|576506|Drama;Fantasy;Romance|Movie
+tt2884206|I Origins|2014|movie|106|7.4|113110|Drama;Romance;Sci-Fi|Movie
+tt0774118|Root of All Evil?|2006|tvMovie|90|8.2|3598|Documentary|Movie
+tt0419909|The Last Casino|2004|tvMovie|92|7.1|1514|Comedy;Drama|Movie
+tt1149362|The White Ribbon|2009|movie|144|7.8|67468|Drama;History;Mystery|Movie
+tt0453467|Deja Vu|2006|movie|126|7.0|288993|Action;Crime;Sci-Fi|Movie
+tt1235535|Louis Theroux: Gambling in Las Vegas|2007|tvMovie|59|7.4|1255|Documentary|Movie
+tt0311289|Holes|2003|movie|117|7.0|75963|Adventure;Comedy;Drama|Movie
+tt1555149|Elite Squad 2: The Enemy Within|2010|movie|115|8.0|78245|Action;Crime;Drama|Movie
+tt1977894|Queen: Days of Our Lives|2011|tvMovie|120|8.5|1650|Documentary;Music|Movie
+tt1371711|Charles Darwin and the Tree of Life|2009|tvMovie|59|8.5|1937|Documentary|Movie
+tt3863552|Bajrangi Bhaijaan|2015|movie|163|8.0|70178|Action;Comedy;Drama|Movie
+tt2140373|Saving Mr. Banks|2013|movie|125|7.5|149331|Biography;Comedy;Drama|Movie
+tt0405296|A Scanner Darkly|2006|movie|100|7.1|105219|Animation;Crime;Drama|Movie
+tt1690953|Despicable Me 2|2013|movie|98|7.3|363637|Adventure;Animation;Comedy|Movie
+tt2374835|The Best of Men|2012|tvMovie|90|8.1|1116|Biography|Movie
+tt0312318|9/11|2002|tvMovie|112|8.5|6311|Documentary|Movie
+tt2278871|Blue Is the Warmest Colour|2013|movie|180|7.7|135628|Drama;Romance|Movie
+tt6172460|Rocko's Modern Life: Static Cling|2019|tvMovie|45|7.0|3291|Action;Adventure;Animation|Movie
+tt7984766|The King|2019|movie|140|7.2|79964|Biography;Drama;History|Movie
+tt5168192|I, Daniel Blake|2016|movie|100|7.9|51731|Drama|Movie
+tt0770828|Man of Steel|2013|movie|143|7.0|679740|Action;Adventure;Sci-Fi|Movie
+tt0187393|The Patriot|2000|movie|165|7.2|251033|Action;Drama;History|Movie
+tt3501632|Thor: Ragnarok|2017|movie|130|7.9|565985|Action;Adventure;Comedy|Movie
+tt9856280|The Show Must Go On: The Queen + Adam Lambert Story|2019|tvMovie|84|7.9|1145|Documentary|Movie
+tt1347512|Blackadder Rides Again|2008|tvMovie|65|7.9|1484|Comedy;Documentary|Movie
+tt7668870|Searching|2018|movie|102|7.6|133763|Drama;Mystery;Thriller|Movie
+tt2381249|Mission: Impossible - Rogue Nation|2015|movie|131|7.4|335051|Action;Adventure;Thriller|Movie
+tt0283474|The Mayor of Casterbridge|2003|tvMovie|196|7.8|1254|Drama|Movie
+tt0445990|Invincible|2006|movie|105|7.1|64884|Biography;Drama;Sport|Movie
+tt0330373|Harry Potter and the Goblet of Fire|2005|movie|157|7.7|531482|Adventure;Family;Fantasy|Movie
+tt0488120|Fracture|2007|movie|113|7.2|183440|Crime;Drama;Thriller|Movie
+tt0338139|Iron Jawed Angels|2004|tvMovie|123|7.5|5632|Biography;Drama;History|Movie
+tt0146882|High Fidelity|2000|movie|113|7.5|165711|Comedy;Drama;Music|Movie
+tt0411477|Hellboy II: The Golden Army|2008|movie|120|7.0|252803|Action;Adventure;Fantasy|Movie
+tt1010048|Slumdog Millionaire|2008|movie|120|8.0|787129|Drama;Romance|Movie
+tt1217209|Brave|2012|movie|93|7.1|364835|Adventure;Animation;Comedy|Movie
+tt1000070|Billy & Mandy's Big Boogey Adventure|2007|tvMovie|80|7.5|1164|Adventure;Animation;Comedy|Movie
+tt1019454|Taking Chance|2009|tvMovie|77|7.4|12875|Drama;War|Movie
+tt0338434|Silent Night|2002|tvMovie|100|7.6|1388|Biography;Drama;War|Movie
+tt4846340|Hidden Figures|2016|movie|127|7.8|193783|Biography;Drama;History|Movie
+tt0388795|Brokeback Mountain|2005|movie|134|7.7|317477|Drama;Romance|Movie
+tt2358891|The Great Beauty|2013|movie|141|7.8|78999|Drama|Movie
+tt1686812|The Song of Lunch|2010|tvMovie|50|7.5|1759|Drama;Romance|Movie
+tt0226771|Homicide: The Movie|2000|tvMovie|88|7.8|1734|Crime;Drama|Movie
+tt5478478|Hostiles|2017|movie|134|7.2|67459|Drama;Western|Movie
+tt1710573|Jesse Stone: Innocents Lost|2011|tvMovie|91|7.1|2542|Crime;Drama|Movie
+tt0480249|I Am Legend|2007|movie|101|7.2|675197|Action;Adventure;Drama|Movie
+tt0411291|Dirty Filthy Love|2004|tvMovie|120|7.2|1301|Drama;Romance|Movie
+tt6269192|Journey Back to Christmas|2016|tvMovie|84|7.1|2003|Drama;Family;Romance|Movie
+tt0285742|Monster's Ball|2001|movie|111|7.0|81576|Drama;Romance|Movie
+tt0377184|Gunpowder, Treason & Plot|2004|tvMovie|205|7.1|1644|Drama;History|Movie
+tt1346983|Loving Leah|2009|tvMovie|95|7.0|2800|Drama;Romance|Movie
+tt1979376|Toy Story 4|2019|movie|100|7.8|190066|Adventure;Animation;Comedy|Movie
+tt0120903|X-Men|2000|movie|104|7.4|562639|Action;Adventure;Sci-Fi|Movie
+tt0289765|Red Dragon|2002|movie|124|7.2|247312|Crime;Drama;Thriller|Movie
+tt2485988|Our Girl|2013|tvMovie|90|7.6|1517|Action;Drama;War|Movie
+tt0354899|The Science of Sleep|2006|movie|105|7.3|67211|Comedy;Drama;Fantasy|Movie
+tt1403177|Hesher|2010|movie|106|7.0|50216|Comedy;Crime;Drama|Movie
+tt5052448|Get Out|2017|movie|104|7.7|473799|Horror;Mystery;Thriller|Movie
+tt0365130|Doc Martin|2001|tvMovie|90|7.7|1602|Comedy|Movie
+tt2267968|Kung Fu Panda 3|2016|movie|95|7.1|130088|Action;Adventure;Animation|Movie
+tt2205697|Stuck in Love.|2012|movie|97|7.2|82534|Comedy;Drama;Romance|Movie
+tt1074638|Skyfall|2012|movie|143|7.7|621071|Action;Adventure;Thriller|Movie
+tt1327773|Lee Daniels' The Butler|2013|movie|132|7.2|106932|Biography;Drama|Movie
+tt4767274|Dolly Parton's Coat of Many Colors|2015|tvMovie|81|7.9|1668|Drama;Family|Movie
+tt0457430|Pan's Labyrinth|2006|movie|118|8.2|607745|Drama;Fantasy;War|Movie
+tt0198781|Monsters, Inc.|2001|movie|92|8.0|796187|Adventure;Animation;Comedy|Movie
+tt4550098|Nocturnal Animals|2016|movie|116|7.5|230043|Drama;Thriller|Movie
+tt7860890|The Zen Diaries of Garry Shandling|2018|tvMovie|259|8.4|1514|Biography;Comedy;Documentary|Movie
+tt1201607|Harry Potter and the Deathly Hallows: Part 2|2011|movie|130|8.1|744660|Adventure;Drama;Fantasy|Movie
+tt1924396|The Best Offer|2013|movie|131|7.8|105392|Crime;Drama;Mystery|Movie
+tt0342258|Unleashed|2005|movie|103|7.0|97644|Action;Adventure;Crime|Movie
+tt1839492|Ruby Sparks|2012|movie|104|7.2|94504|Comedy;Drama;Fantasy|Movie
+tt3205394|Roald Dahl's Esio Trot|2015|tvMovie|88|7.0|4456|Comedy;Family;Romance|Movie
+tt3197176|The Good Witch's Wonder|2014|tvMovie|84|7.0|1140|Drama;Family;Fantasy|Movie
+tt0210945|Remember the Titans|2000|movie|113|7.8|194629|Biography;Drama;Sport|Movie
+tt4226388|Victoria|2015|movie|138|7.6|51038|Crime;Drama;Romance|Movie
+tt0451279|Wonder Woman|2017|movie|141|7.4|537119|Action;Adventure;Fantasy|Movie
+tt0405496|Z Channel: A Magnificent Obsession|2004|tvMovie|120|7.7|1282|Biography;Documentary;History|Movie
+tt0290673|Irréversible|2002|movie|97|7.4|116957|Crime;Drama;Mystery|Movie
+tt1185616|Waltz with Bashir|2008|movie|90|8.0|54447|Animation;Biography;Documentary|Movie
+tt0398808|Bridge to Terabithia|2007|movie|96|7.1|140612|Drama;Family;Fantasy|Movie
+tt0887912|The Hurt Locker|2008|movie|131|7.6|414704|Drama;Thriller;War|Movie
+tt1905041|Fast & Furious 6|2013|movie|130|7.1|363574|Action;Adventure;Thriller|Movie
+tt1235166|A Prophet|2009|movie|155|7.9|92177|Crime;Drama|Movie
+tt0395169|Hotel Rwanda|2004|movie|121|8.1|329657|Biography;Drama;History|Movie
+tt0220608|The Last of the Blonde Bombshells|2000|tvMovie|83|7.2|1401|Comedy;Music|Movie
+tt0251160|John Q|2002|movie|116|7.1|121469|Crime;Drama;Thriller|Movie
+tt0231844|Just a Question of Love|2000|tvMovie|88|7.7|5440|Drama;Romance|Movie
+tt0402348|Love's Enduring Promise|2004|tvMovie|120|7.1|3073|Drama;Family;Western|Movie
+tt4572514|Patriots Day|2016|movie|133|7.4|88299|Action;Crime;Drama|Movie
+tt0477348|No Country for Old Men|2007|movie|122|8.1|833412|Crime;Drama;Thriller|Movie
+tt1038988|REC|2007|movie|78|7.4|162507|Action;Adventure;Fantasy|Movie
+tt0181689|Minority Report|2002|movie|145|7.6|499483|Action;Crime;Mystery|Movie
+tt0399146|A History of Violence|2005|movie|96|7.4|220630|Drama;Thriller|Movie
+tt2866360|Coherence|2013|movie|89|7.2|104022|Drama;Mystery;Sci-Fi|Movie
+tt0332452|Troy|2004|movie|163|7.2|480191|Drama;History|Movie
+tt0268126|Adaptation.|2002|movie|115|7.7|174632|Comedy;Drama|Movie
+tt0377092|Mean Girls|2004|movie|97|7.0|325542|Comedy|Movie
+tt1753383|A Dog's Purpose|2017|movie|100|7.2|63627|Adventure;Comedy;Drama|Movie
+tt1707386|Les Misérables|2012|movie|158|7.6|303188|Drama;History;Musical|Movie
+tt1683526|Detachment|2011|movie|98|7.7|75017|Drama|Movie
+tt0455590|The Last King of Scotland|2006|movie|123|7.7|173011|Biography;Drama;History|Movie
+tt0460740|Cashback|2006|movie|102|7.2|82040|Comedy;Drama;Romance|Movie
+tt0139654|Training Day|2001|movie|122|7.7|382104|Crime;Drama;Thriller|Movie
+tt0312004|Wallace & Gromit: The Curse of the Were-Rabbit|2005|movie|85|7.4|123301|Adventure;Animation;Comedy|Movie
+tt0406046|The Magic of Ordinary Days|2005|tvMovie|98|7.6|4189|Drama|Movie
+tt0318462|The Motorcycle Diaries|2004|movie|126|7.8|95483|Adventure;Biography;Drama|Movie
+tt0218839|Best in Show|2000|movie|90|7.4|54581|Comedy|Movie
+tt3322364|Concussion|2015|movie|123|7.1|84760|Biography;Drama;Sport|Movie
+tt1821549|Nebraska|2013|movie|115|7.7|110785|Adventure;Comedy;Drama|Movie
+tt6874964|Jesus Christ Superstar Live in Concert|2018|tvMovie|99|7.7|3177|Musical|Movie
+tt2334649|Fruitvale Station|2013|movie|85|7.5|73992|Biography;Crime;Drama|Movie
+tt1714206|The Spectacular Now|2013|movie|95|7.1|142220|Comedy;Drama;Romance|Movie
+tt7014006|Eighth Grade|2018|movie|93|7.4|59228|Comedy;Drama|Movie
+tt0302886|Old School|2003|movie|88|7.1|211980|Comedy|Movie
+tt1226774|In the Loop|2009|movie|106|7.4|53786|Comedy|Movie
+tt0478970|Ant-Man|2015|movie|117|7.3|554835|Action;Adventure;Comedy|Movie
+tt0396171|Perfume: The Story of a Murderer|2006|movie|147|7.5|231422|Crime;Drama|Movie
+tt1937149|The Body|2012|movie|112|7.6|54770|Mystery;Thriller|Movie
+tt2294629|Frozen|2013|movie|102|7.4|561339|Adventure;Animation;Comedy|Movie
+tt1649419|The Impossible|2012|movie|114|7.6|192642|Drama;History;Thriller|Movie
+tt1276104|Looper|2012|movie|113|7.4|526866|Action;Drama;Sci-Fi|Movie
+tt2125608|Searching for Sugar Man|2012|movie|86|8.2|62773|Biography;Documentary;Music|Movie
+tt0449088|Pirates of the Caribbean: At World's End|2007|movie|169|7.1|585834|Action;Adventure;Fantasy|Movie
+tt0434409|V for Vendetta|2005|movie|132|8.2|1011171|Action;Drama;Sci-Fi|Movie
+tt0367110|Swades|2004|movie|210|8.2|81489|Drama|Movie
+tt1490017|The Lego Movie|2014|movie|100|7.7|319675|Action;Adventure;Animation|Movie
+tt0379217|Coffee and Cigarettes|2003|movie|95|7.1|58906|Comedy;Drama;Music|Movie
+tt2057392|Eye in the Sky|2015|movie|102|7.3|77594|Action;Drama;Thriller|Movie
+tt9556756|Winter Love Story|2019|tvMovie|84|7.1|1044|Romance|Movie
+tt0188350|The New Country|2000|tvMovie|232|7.3|1460|Comedy;Drama|Movie
+tt0203119|Sexy Beast|2000|movie|89|7.3|54231|Crime;Drama;Thriller|Movie
+tt1000764|The Most Hated Family in America|2007|tvMovie|60|8.0|4196|Documentary|Movie
+tt2033193|A Very Potter Musical|2009|tvMovie|166|8.9|2735|Comedy;Musical|Movie
+tt0443453|Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan|2006|movie|84|7.3|347179|Comedy|Movie
+tt0320691|Underworld|2003|movie|121|7.0|249591|Action;Fantasy;Thriller|Movie
+tt0317248|City of God|2002|movie|130|8.6|686726|Crime;Drama|Movie
+tt1704292|Battlestar Galactica: Blood & Chrome|2012|tvMovie|91|7.0|16945|Action;Sci-Fi|Movie
+tt8946378|Knives Out|2019|movie|130|7.9|384971|Comedy;Crime;Drama|Movie
+tt1305806|The Secret in Their Eyes|2009|movie|129|8.2|188252|Drama;Mystery;Romance|Movie
+tt0490215|Silence|2016|movie|161|7.2|97430|Drama;History|Movie
+tt0404203|Little Children|2006|movie|137|7.5|104217|Comedy;Drama;Romance|Movie
+tt0425112|Hot Fuzz|2007|movie|121|7.8|454839|Action;Comedy;Mystery|Movie
+tt0405159|Million Dollar Baby|2004|movie|132|8.1|624226|Drama;Sport|Movie
+tt1798709|Her|2013|movie|126|8.0|525129|Drama;Romance;Sci-Fi|Movie
+tt1740707|Trollhunter|2010|movie|103|7.0|67620|Drama;Fantasy;Horror|Movie
+tt2234003|Calvary|2014|movie|102|7.4|55150|Comedy;Drama|Movie
+tt1562872|Zindagi Na Milegi Dobara|2011|movie|155|8.1|65897|Comedy;Drama|Movie
+tt0335345|The Passion of the Christ|2004|movie|127|7.2|212500|Drama|Movie
+tt0347228|The Iceman Confesses: Secrets of a Mafia Hitman|2001|tvMovie|43|7.7|1234|Crime;Documentary|Movie
+tt0381849|3:10 to Yuma|2007|movie|122|7.7|284415|Action;Crime;Drama|Movie
+tt0851430|My Boy Jack|2007|tvMovie|95|7.1|5102|Biography;Drama;History|Movie
+tt0929864|Love's Unending Legacy|2007|tvMovie|90|7.1|1367|Drama;Family;Romance|Movie
+tt0381061|Casino Royale|2006|movie|144|8.0|571149|Action;Adventure;Thriller|Movie
+tt2663812|An Adventure in Space and Time|2013|tvMovie|90|8.3|6345|Biography;Drama;History|Movie
+tt0274468|Door to Door|2002|tvMovie|90|7.8|3879|Drama|Movie
+tt1245526|RED|2010|movie|111|7.0|284706|Action;Comedy;Crime|Movie
+tt2547584|The Light Between Oceans|2016|movie|133|7.2|50783|Drama;Romance|Movie
+tt0145487|Spider-Man|2002|movie|121|7.3|676024|Action;Adventure;Sci-Fi|Movie
+tt3640424|Allied|2016|movie|124|7.1|137902|Action;Drama;Romance|Movie
+tt8108198|Andhadhun|2018|movie|139|8.3|66185|Crime;Thriller|Movie
+tt1318514|Rise of the Planet of the Apes|2011|movie|105|7.6|490910|Action;Drama;Sci-Fi|Movie
+tt1232776|Fish Tank|2009|movie|123|7.3|57746|Drama|Movie
+tt0249248|Wings of Hope|2000|tvMovie|65|7.6|1019|Adventure;Biography;Documentary|Movie
+tt0461770|Enchanted|2007|movie|107|7.0|174161|Animation;Comedy;Family|Movie
+tt0272020|The Last Castle|2001|movie|131|7.0|69942|Action;Drama;Thriller|Movie
+tt0759612|Longford|2006|tvMovie|93|7.6|2746|Biography;Crime;Drama|Movie
+tt1857772|Louis Theroux: The Ultra Zionists|2011|tvMovie|60|7.3|1019|Documentary|Movie
+tt0293508|The Phantom of the Opera|2004|movie|143|7.2|114755|Drama;Musical;Romance|Movie
+tt3079380|Spy|2015|movie|120|7.0|226216|Action;Comedy;Crime|Movie
+tt0903624|The Hobbit: An Unexpected Journey|2012|movie|169|7.8|746649|Adventure;Fantasy|Movie
+tt0460791|The Fall|2006|movie|117|7.9|105945|Adventure;Drama;Fantasy|Movie
+tt3488710|The Walk|2015|movie|123|7.3|117616|Adventure;Biography;Drama|Movie
+tt0247745|Super Troopers|2001|movie|100|7.1|94961|Comedy;Crime;Mystery|Movie
+tt1392214|Prisoners|2013|movie|153|8.1|582602|Crime;Drama;Mystery|Movie
+tt2310332|The Hobbit: The Battle of the Five Armies|2014|movie|144|7.4|464727|Adventure;Fantasy|Movie
+tt0436697|The Queen|2006|movie|103|7.3|102635|Biography;Drama;History|Movie
+tt0765010|Brothers|2009|movie|105|7.1|109397|Action;Drama;Thriller|Movie
+tt0344510|A Very Long Engagement|2004|movie|133|7.6|70252|Drama;Mystery;Romance|Movie
+tt5715874|The Killing of a Sacred Deer|2017|movie|121|7.0|117009|Drama;Horror;Mystery|Movie
+tt0369702|The Sea Inside|2004|movie|126|8.0|76440|Biography;Drama|Movie
+tt0780571|Mr. Brooks|2007|movie|120|7.3|141633|Crime;Drama;Thriller|Movie
+tt0332280|The Notebook|2004|movie|123|7.8|509154|Drama;Romance|Movie
+tt1677720|Ready Player One|2018|movie|140|7.5|354815|Action;Adventure;Sci-Fi|Movie
+tt0386032|Sicko|2007|movie|123|7.9|73224|Documentary;Drama|Movie
+tt1566591|Magic & Bird: A Courtship of Rivals|2010|tvMovie|85|8.3|1577|Biography;Documentary;Sport|Movie
+tt0324554|Wicker Park|2004|movie|114|7.0|52275|Drama;Mystery;Romance|Movie
+tt1399683|Winter's Bone|2010|movie|100|7.2|133976|Drama;Mystery|Movie
+tt8110330|Dil Bechara|2020|movie|101|8.8|102695|Comedy;Drama;Romance|Movie
+tt2119532|Hacksaw Ridge|2016|movie|139|8.1|419577|Biography;Drama;History|Movie
+tt0437086|Alita: Battle Angel|2019|movie|122|7.3|218180|Action;Adventure;Sci-Fi|Movie
+tt1191111|Enter the Void|2009|movie|161|7.3|68857|Drama;Fantasy|Movie
+tt0423510|Warm Springs|2005|tvMovie|121|7.5|2608|Biography;Drama|Movie
+tt2347569|Frances Ha|2012|movie|86|7.5|71465|Comedy;Drama;Romance|Movie
+tt1259528|Den of Thieves|2018|movie|148|7.0|89088|Action;Crime;Drama|Movie
+tt9876408|Bottled with Love|2019|tvMovie|84|7.2|1389|Drama;Romance|Movie
+tt0497116|An Inconvenient Truth|2006|movie|96|7.4|79768|Documentary;News|Movie
+tt0362227|The Terminal|2004|movie|128|7.4|397297|Comedy;Drama;Romance|Movie
+tt0250258|The Experiment|2001|movie|120|7.7|90008|Drama;Thriller|Movie
+tt2013293|The Wind Rises|2013|movie|126|7.8|70421|Animation;Biography;Drama|Movie
+tt0970179|Hugo|2011|movie|126|7.5|300014|Drama;Family;Fantasy|Movie
+tt0316356|Open Range|2003|movie|139|7.4|65638|Action;Drama;Romance|Movie
+tt6098922|Louis Theroux: Savile|2016|tvMovie|75|7.4|1737|Documentary|Movie
+tt3263904|Sully|2016|movie|96|7.4|230557|Biography;Drama|Movie
+tt1273675|Rent: Filmed Live on Broadway|2008|tvMovie|165|8.0|3844|Drama;Musical;Romance|Movie
+tt0395565|Gracie's Choice|2004|tvMovie|90|7.5|3258|Drama|Movie
+tt0465538|Michael Clayton|2007|movie|119|7.2|154366|Crime;Drama;Mystery|Movie
+tt1235534|Louis Theroux: Behind Bars|2008|tvMovie|60|7.7|1881|Documentary|Movie
+tt1229238|Mission: Impossible - Ghost Protocol|2011|movie|132|7.4|450344|Action;Adventure;Thriller|Movie
+tt0313410|No Night Is Too Long|2002|tvMovie|116|7.1|2341|Crime;Drama;Romance|Movie
+tt1213663|The World's End|2013|movie|109|7.0|254466|Comedy;Sci-Fi|Movie
+tt1712046|Louis Theroux: The City Addicted to Crystal Meth|2009|tvMovie|60|7.4|1078|Documentary|Movie
+tt4540710|Miss Sloane|2016|movie|132|7.5|61906|Drama;Thriller|Movie
+tt4995790|The Square|2017|movie|151|7.2|53346|Comedy;Drama|Movie
+tt0450259|Blood Diamond|2006|movie|143|8.0|490367|Adventure;Drama;Thriller|Movie
+tt1375666|Inception|2010|movie|148|8.8|2008544|Action;Adventure;Sci-Fi|Movie
+tt0274735|The Pretender: Island of the Haunted|2001|tvMovie|91|7.4|1732|Action;Crime;Mystery|Movie
+tt1596363|The Big Short|2015|movie|130|7.8|349808|Biography;Comedy;Drama|Movie
+tt0832266|Definitely, Maybe|2008|movie|112|7.1|152907|Comedy;Drama;Romance|Movie
+tt1856101|Blade Runner 2049|2017|movie|164|8.0|442346|Action;Drama;Mystery|Movie
+tt0978762|Mary and Max|2009|movie|92|8.1|161355|Animation;Comedy;Drama|Movie
+tt1979320|Rush|2013|movie|123|8.1|423560|Action;Biography;Drama|Movie
+tt1260581|Red Riding: The Year of Our Lord 1980|2009|tvMovie|93|7.2|8138|Crime;Drama;Mystery|Movie
+tt0407612|The Brooke Ellison Story|2004|tvMovie|91|7.0|1574|Biography;Drama|Movie
+tt0242519|Hera Pheri|2000|movie|156|8.2|55137|Action;Comedy;Crime|Movie
+tt0407936|Lackawanna Blues|2005|tvMovie|95|7.9|2208|Drama;Music|Movie
+tt1990314|Robot & Frank|2012|movie|89|7.1|61297|Comedy;Crime;Drama|Movie
+tt0360717|King Kong|2005|movie|187|7.2|384765|Action;Adventure;Drama|Movie
+tt5257726|Hey Arnold: The Jungle Movie|2017|tvMovie|81|7.6|2583|Adventure;Animation;Comedy|Movie
+tt0390521|Super Size Me|2004|movie|100|7.2|100015|Documentary|Movie
+tt0995036|Einstein and Eddington|2008|tvMovie|94|7.3|5934|Biography;Drama;History|Movie
+tt2802144|Kingsman: The Secret Service|2014|movie|129|7.7|580200|Action;Adventure;Comedy|Movie
+tt0813980|24: Redemption|2008|tvMovie|84|7.5|26810|Action;Adventure;Crime|Movie
+tt1853728|Django Unchained|2012|movie|165|8.4|1320439|Drama;Western|Movie
+tt1458175|The Next Three Days|2010|movie|133|7.4|179022|Action;Crime;Drama|Movie
+tt0907657|Once|2007|movie|86|7.8|109199|Drama;Music;Romance|Movie
+tt1124035|The Ides of March|2011|movie|101|7.1|212741|Drama;Thriller|Movie
+tt3202500|The Ambassador to Bern|2014|tvMovie|76|7.1|1443|Drama;History;Thriller|Movie
+tt0486420|Love's Long Journey|2005|tvMovie|120|7.3|1931|Drama;Family;Western|Movie
+tt1532503|Beginners|2010|movie|105|7.2|86826|Comedy;Drama;Romance|Movie
+tt0817177|Flipped|2010|movie|90|7.7|79945|Comedy;Drama;Romance|Movie
+tt0814314|Seven Pounds|2008|movie|123|7.6|282590|Drama|Movie
+tt1697851|Burn Notice: The Fall of Sam Axe|2011|tvMovie|90|7.2|6149|Action;Comedy;Crime|Movie
+tt0472062|Charlie Wilson's War|2007|movie|102|7.0|108603|Biography;Comedy;Drama|Movie
+tt0257360|About Schmidt|2002|movie|125|7.1|121260|Comedy;Drama|Movie
+tt0144084|American Psycho|2000|movie|101|7.6|474622|Comedy;Crime;Drama|Movie
+tt1323594|Despicable Me|2010|movie|95|7.6|491862|Animation;Comedy;Family|Movie
+tt0454921|The Pursuit of Happyness|2006|movie|117|8.0|438157|Biography;Drama|Movie
+tt10090796|Game of Thrones: The Last Watch|2019|tvMovie|114|7.2|5495|Documentary|Movie
+tt8228288|The Platform|2019|movie|94|7.0|146427|Horror;Sci-Fi;Thriller|Movie
+tt0910970|WALL·E|2008|movie|98|8.4|976280|Adventure;Animation;Family|Movie
+tt0347304|Kal ho naa ho|2003|movie|186|8.0|62121|Comedy;Drama;Romance|Movie
+tt0822854|Shooter|2007|movie|124|7.2|305921|Action;Drama;Thriller|Movie
+tt1825683|Black Panther|2018|movie|134|7.3|602476|Action;Adventure;Sci-Fi|Movie
+tt0324013|Soldier's Girl|2003|tvMovie|112|7.9|6288|Biography;Crime;Drama|Movie
+tt0986233|Hunger|2008|movie|96|7.6|64520|Biography;Drama|Movie
+tt0439856|The Trailer Park Boys Christmas Special|2004|tvMovie|57|8.0|2982|Comedy|Movie
+tt0431197|The Kingdom|2007|movie|110|7.0|116165|Action;Drama;Thriller|Movie
+tt11324534|The Thing About Harry|2020|tvMovie|85|7.1|1953|Comedy;Drama;Romance|Movie
+tt9495224|Black Mirror: Bandersnatch|2018|tvMovie|90|7.2|109891|Drama;Mystery;Sci-Fi|Movie
+tt1684226|The Normal Heart|2014|tvMovie|132|7.9|33089|Drama;History;Romance|Movie
+tt0249462|Billy Elliot|2000|movie|110|7.7|124231|Drama;Music|Movie
+tt2140479|The Accountant|2016|movie|128|7.3|254149|Action;Crime;Drama|Movie
+tt0992993|Into the Storm|2009|tvMovie|99|7.1|4643|Biography;Drama;History|Movie
+tt2763790|The Wipers Times|2013|tvMovie|92|7.1|1061|War|Movie
+tt1186830|Agora|2009|movie|127|7.2|65102|Adventure;Biography;Drama|Movie
+tt0317705|The Incredibles|2004|movie|115|8.0|643644|Action;Adventure;Animation|Movie
+tt1010278|The Courageous Heart of Irena Sendler|2009|tvMovie|95|7.2|3813|Biography;Drama;War|Movie
+tt1605717|Frank|2014|movie|95|7.0|73956|Comedy;Drama;Music|Movie
+tt0159365|Cold Mountain|2003|movie|154|7.2|138145|Adventure;Drama;History|Movie
+tt1219289|Limitless|2011|movie|105|7.4|519578|Sci-Fi;Thriller|Movie
+tt6513120|Fighting with My Family|2019|movie|108|7.1|62926|Biography;Comedy;Drama|Movie
+tt1675192|Take Shelter|2011|movie|121|7.4|89497|Drama;Horror;Thriller|Movie
+tt0234215|The Matrix Reloaded|2003|movie|138|7.2|506619|Action;Sci-Fi|Movie
+tt2179136|American Sniper|2014|movie|133|7.3|430523|Action;Biography;Drama|Movie
+tt10324166|Unbreakable Kimmy Schmidt: Kimmy vs the Reverend|2020|tvMovie|80|7.2|2421|Comedy|Movie
+tt1120985|Blue Valentine|2010|movie|112|7.4|181021|Drama;Romance|Movie
+tt1840417|The Words|2012|movie|102|7.0|73664|Drama;Mystery;Romance|Movie
+tt0237534|Brotherhood of the Wolf|2001|movie|142|7.0|61918|Action;Adventure;Drama|Movie
+tt0454848|Inside Man|2006|movie|129|7.6|332053|Crime;Drama;Mystery|Movie
+tt0780504|Drive|2011|movie|100|7.8|559511|Crime;Drama|Movie
+tt1748122|Moonrise Kingdom|2012|movie|94|7.8|312121|Comedy;Drama;Romance|Movie
+tt6644200|A Quiet Place|2018|movie|90|7.5|392461|Drama;Horror;Sci-Fi|Movie
+tt0960143|Love's Unfolding Dream|2007|tvMovie|90|7.1|1106|Drama;Family;Western|Movie
+tt0450188|La Vie En Rose|2007|movie|140|7.6|81483|Biography;Drama;Music|Movie
+tt0481499|The Croods|2013|movie|98|7.2|186902|Action;Adventure;Animation|Movie
+tt0448115|Shazam!|2019|movie|132|7.1|241890|Action;Adventure;Comedy|Movie
+tt1606392|Win Win|2011|movie|106|7.1|52425|Comedy;Drama;Sport|Movie
+tt0274558|The Hours|2002|movie|110|7.5|122543|Drama;Romance|Movie
+tt0810746|9/11: The Falling Man|2006|tvMovie|80|7.3|1358|Documentary|Movie
+tt3450958|War for the Planet of the Apes|2017|movie|140|7.4|222602|Action;Adventure;Drama|Movie
+tt1790885|Zero Dark Thirty|2012|movie|157|7.4|266832|Drama;History;Thriller|Movie
+tt0134847|Pitch Black|2000|movie|109|7.1|222892|Action;Horror;Sci-Fi|Movie
+tt0821638|Bury My Heart at Wounded Knee|2007|tvMovie|133|7.1|6005|Drama;History;Western|Movie
+tt7775622|Free Solo|2018|movie|100|8.2|50989|Adventure;Documentary;Sport|Movie
+tt1587707|Exit Through the Gift Shop|2010|movie|87|8.0|61580|Comedy;Crime;Documentary|Movie
